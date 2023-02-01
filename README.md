@@ -1,3 +1,3 @@
 # my_blogs
 
-# This Repo conprises of all the blogs posts of mine published on Hashnode and LinkedIn Platform
+# This Repository comprises of all the blogs posts of mine published on Hashnode and LinkedIn Platform
