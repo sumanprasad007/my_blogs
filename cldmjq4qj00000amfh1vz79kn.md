@@ -1,6 +1,6 @@
-# DevOps Pre-requisites needed!
+# DevOps Pre-requisites!
 
-Good morning connections, It's day 18 of #90days challenge, and **it's important to understand the pre-requisites needed to get started with DevOps.** In this blog, I'm giving an overview of the requirements, we will touch in depth on each topics in up-coming blogs and even we will discuss the DevOps Tech Stack in detail, so let's get going
+Good morning connections, It's day 18 of #90days challenge, and **it's important to understand the pre-requisites needed to get started with DevOps.**
 
 DevOps is a powerful practice that can help organizations to deliver high-quality software quickly, reliably and securely, but it can also be overwhelming for beginners. Here are some key pre-requisites that you should consider before diving into DevOps.
 
@@ -17,4 +17,4 @@ DevOps is a powerful practice that can help organizations to deliver high-qualit
 
 In conclusion, these are some of the key pre-requisites that beginners should consider before diving into DevOps. While it may seem overwhelming at first, DevOps can be a rewarding practice that can help organizations to deliver better software to customers. With the right knowledge and skills, anyone can get started with DevOps and start making a positive impact on their organization.
 
-StartFragment**#90daysofdevops #DevOps #ProjectDevelopment #NonITBackground #GitHub #Docker #CloudPlatforms #EC2 #AWS #ElasticBeanstalk #LambdaFunctions #DevOpsPipelines #Terraform #Jenkins #Docker #DevSecOps #SCM #Git #GitLab #BitBucket #BuildTools #Griddle #Maven #Ant #MSBuild #MonitoringTools #Prometheus #Grafana #Ansible #AI #ChatGPT #ValueAddition #RealWorldProblems**.EndFragment
+StartFragment\*\*#90daysofdevops #DevOps #ProjectDevelopment #NonITBackground #GitHub #Docker #CloudPlatforms #EC2 #AWS #ElasticBeanstalk #LambdaFunctions #DevOpsPipelines #Terraform #Jenkins #Docker #DevSecOps #SCM #Git #GitLab #BitBucket #BuildTools #Griddle #Maven #Ant #MSBuild #MonitoringTools #Prometheus #Grafana #Ansible #AI #ChatGPT #ValueAddition #RealWorldProblems\*\*.EndFragment
