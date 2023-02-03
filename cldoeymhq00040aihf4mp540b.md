@@ -1,0 +1,21 @@
+# The importance of reviewing your goals on a daily basis and how to improve in areas where you're lacking
+
+Good morning connections!☺️  
+  
+It's Days 12 of [#90days](https://www.linkedin.com/feed/hashtag/?keywords=90days&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) and today we're going to talk about:  
+  
+"The importance of reviewing your goals on a daily basis and how to improve in areas where you're lacking."  
+  
+Setting goals is an essential part of personal and professional growth, but it's not enough to simply set them and forget about them. In order to achieve success, it's crucial to regularly review your goals and track your progress. By doing this, you can identify any areas where you're falling behind and make adjustments to stay on track.  
+  
+One effective way to review your goals is to set aside time each day to reflect on your progress. This can be as simple as taking a few minutes to check in with yourself, or it can be more formal, such as scheduling a weekly or monthly meeting with yourself. During this time, you can assess how well you're doing, what's working and what's not, and make any necessary adjustments to your goals and actions.  
+  
+When you do identify an area where you're lacking, it's important to take action to improve. This may involve seeking out additional resources, such as training, mentoring, or networking opportunities, or it may involve making changes to your approach or mindset.  
+  
+Another effective way to improve areas where you're lacking is to seek out feedback from others. This can be from colleagues, mentors, or anyone you trust, who can give you an outside perspective on your strengths and weaknesses. Use this feedback to identify the areas you need to improve and develop a plan to address them.  
+  
+In conclusion, reviewing your goals on a daily basis and taking action to improve in areas where you're lacking is crucial for achieving success. By making it a regular practice to reflect on your progress and seeking out feedback, you can stay on track and achieve your goals.  
+  
+Thank you [Tausief Shaikh](https://www.linkedin.com/in/ACoAAA-y4eMBDS3t7aG32tY5JnuUK-Xc8dgA5MY) & [Shubham Londhe](https://www.linkedin.com/in/ACoAABhZ4kMBt55axHJpEnVRp0UOUl-_JwwmPwk)  
+  
+[#goalsetting](https://www.linkedin.com/feed/hashtag/?keywords=goalsetting&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#personalgrowth](https://www.linkedin.com/feed/hashtag/?keywords=personalgrowth&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#professionaldevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#dailyreview](https://www.linkedin.com/feed/hashtag/?keywords=dailyreview&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#improvement](https://www.linkedin.com/feed/hashtag/?keywords=improvement&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#networking](https://www.linkedin.com/feed/hashtag/?keywords=networking&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#mentoring](https://www.linkedin.com/feed/hashtag/?keywords=mentoring&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#mindset](https://www.linkedin.com/feed/hashtag/?keywords=mindset&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#90daysofdevops](https://www.linkedin.com/feed/hashtag/?keywords=90daysofdevops&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#affirmations](https://www.linkedin.com/feed/hashtag/?keywords=affirmations&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [Ann Felix](https://www.linkedin.com/in/ACoAADffTj8Bcu_ARdy0AH7A-RDkJaYYHsm4VTI) [#dailylearning](https://www.linkedin.com/feed/hashtag/?keywords=dailylearning&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016) [#dailychallenge](https://www.linkedin.com/feed/hashtag/?keywords=dailychallenge&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024574975407702016)
