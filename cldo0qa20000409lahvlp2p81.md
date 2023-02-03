@@ -41,3 +41,5 @@ DevOps reduces the chances of misunderstandings between development and operatio
 In conclusion, DevOps is a philosophy that emphasizes collaboration and communication between development and operations teams to deliver software faster and more reliably. Adopting DevOps practices can improve the efficiency of the development process and deliver software with higher quality
 
 #DevOps #SoftwareDevelopment #AgileMethodologies #ContinuousIntegration #ContinuousDelivery #Automation #Collaboration #Efficiency #Quality #StreamlinedDelivery #EnhancedCommunication
+
+Image Credit: https://www.javatpoint.com/software-engineering-software-development-life-cycle
