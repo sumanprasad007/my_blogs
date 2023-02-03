@@ -1,4 +1,4 @@
-# The importance of reviewing your goals on a daily basis and how to improve in areas where you're lacking
+# Importance of reviewing your goals & knowing areas of Improvements
 
 Good morning connections!☺️  
   
