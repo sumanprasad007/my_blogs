@@ -12,7 +12,7 @@ Automation
 
 Collaboration between development and operations teams
 
-Example:
+**Example:**
 
 Agile development methodologies allow for quick feedback and fast iteration, enabling teams to quickly identify and resolve issues.
 
@@ -32,7 +32,7 @@ Improves the quality of software
 
 Enhances collaboration and communication between development and operations teams
 
-Example:
+**Example:**
 
 By working together, development and operations teams can deliver software faster and with higher quality, reducing the time it takes to get new features to market.
 
