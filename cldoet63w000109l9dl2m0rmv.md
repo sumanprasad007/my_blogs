@@ -1,0 +1,21 @@
+# Important Lessons from Republic
+
+Good morning connections,  
+🇮🇳Happiest 74th Republic Day to everyone 🇮🇳  
+  
+it's Day 11 of [#90days](https://www.linkedin.com/feed/hashtag/?keywords=90days&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) and today we're going to talk about the Indian Republic and how we can apply the lessons of this important day to grow both personally and professionally.  
+  
+The Indian Republic, also known as Republic Day, is a national holiday in India that is celebrated on January 26th every year. It marks the day when the Constitution of India came into effect, making India a republic and giving its citizens the right to elect our own government.  
+  
+One of the key lessons we can take away from the Indian Republic is the importance of democracy and the power of the people. Just as the citizens of India were given the right to elect their own government, we too have the power to shape our own lives and careers through the choices we make and the actions we take.  
+  
+Another lesson we can learn from the Indian Republic is the importance of unity and coming together as a community. The Constitution of India brings together people from diverse backgrounds and cultures, and similarly, in our personal and professional lives, it is important to work together and support one another in order to achieve our goals.  
+  
+To apply these lessons to our own growth, we can focus on building strong relationships, collaborating with others and valuing diversity. We can also use our own personal power to make choices that align with our goals, and take action to make them a reality.  
+  
+So, as we celebrate the Indian Republic, let's reflect on the lessons it can teach us about democracy, unity and personal power, and how we can apply them to our growth.  
+  
+  
+Happy Republic Day Sir [Tausief Shaikh](https://www.linkedin.com/in/ACoAAA-y4eMBDS3t7aG32tY5JnuUK-Xc8dgA5MY) & [Shubham Londhe](https://www.linkedin.com/in/ACoAABhZ4kMBt55axHJpEnVRp0UOUl-_JwwmPwk)  
+  
+[#IndianRepublic](https://www.linkedin.com/feed/hashtag/?keywords=indianrepublic&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#Democracy](https://www.linkedin.com/feed/hashtag/?keywords=democracy&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#Unity](https://www.linkedin.com/feed/hashtag/?keywords=unity&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#PersonalPower](https://www.linkedin.com/feed/hashtag/?keywords=personalpower&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#Growth](https://www.linkedin.com/feed/hashtag/?keywords=growth&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#CareerDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=careerdevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#work](https://www.linkedin.com/feed/hashtag/?keywords=work&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#people](https://www.linkedin.com/feed/hashtag/?keywords=people&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#community](https://www.linkedin.com/feed/hashtag/?keywords=community&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#connections](https://www.linkedin.com/feed/hashtag/?keywords=connections&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#building](https://www.linkedin.com/feed/hashtag/?keywords=building&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#careers](https://www.linkedin.com/feed/hashtag/?keywords=careers&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#power](https://www.linkedin.com/feed/hashtag/?keywords=power&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#diversity](https://www.linkedin.com/feed/hashtag/?keywords=diversity&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#india](https://www.linkedin.com/feed/hashtag/?keywords=india&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240) [#90daysofdevops](https://www.linkedin.com/feed/hashtag/?keywords=90daysofdevops&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7024233318397194240)
