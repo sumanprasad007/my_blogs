@@ -1,4 +1,4 @@
-# Conclusion of last 2 Weeks blogs
+# Conclusion of last 2 Week blogs
 
 Good morning connections 😊 , As we embark on "Day 14 of our [#90days](https://www.linkedin.com/feed/hashtag/?keywords=90days&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7025322587081576448) journey", I would like to take the opportunity to summarize the topics we have covered over the past two weeks. The following is a brief overview of the key points discussed in each of our daily posts 👇 :  
   
