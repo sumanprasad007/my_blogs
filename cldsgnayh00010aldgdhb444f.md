@@ -1,0 +1,25 @@
+# Breakdown of SDLC model in terms of DevOps
+
+In this blog, we will be discussing SDLC Model as DevOps Engineer. Will cover the sub-topics of the model in depth in an upcoming blog post. In this blog, let's have a bigger picture of the whole as a map to navigate our journey forward.
+
+1. Continuous Integration (CI): CI is a practice in DevOps that automates the process of building, testing, and integrating code changes. The goal of CI is to catch and resolve problems early in the development process before they become more difficult and expensive to fix. This is achieved by frequently merging code changes into a central repository, where they are built and tested automatically. CI tools like Jenkins, Travis CI, or CircleCI can be used to automate this process.
+    
+2. Continuous Deployment (CD): CD is the next step after CI, automating the process of deploying software releases to production. CD aims to make software releases faster, more reliable, and less manual. With CD, every change that passes the CI process is automatically deployed to production, eliminating the need for manual intervention. This can be done using tools like Ansible, Chef, or Puppet.
+    
+3. Infrastructure as Code (IaC): IaC is a DevOps approach to managing infrastructure resources, such as servers and databases, as code. This allows infrastructure to be treated as part of the software development process, making it easier to version, test, and deploy. IaC tools like Terraform, Ansible, or Chef can be used to automate the provisioning and configuration of infrastructure.
+    
+4. Configuration Management: Configuration management is a key aspect of DevOps, allowing the configuration of software, infrastructure, and environment to be versioned and managed as code. This helps to ensure consistency and reliability and makes it easier to diagnose and resolve issues. Tools like Puppet, Chef, or Ansible can be used for configuration management.
+    
+5. Monitoring and Logging: Monitoring the performance and health of the software system, as well as collecting and analyzing log data, are critical for ensuring the reliability and availability of the system. Monitoring tools like Nagios, Zabbix, or Datadog can be used to alert on performance issues, and log analysis tools like Elasticsearch, Logstash, and Kibana (ELK Stack) can be used to collect and analyze log data.
+    
+6. Containerization: Containerization is a DevOps technique for packaging software and its dependencies into containers, using tools like Docker. This makes it easier to deploy and manage software, improving reliability and reducing the risk of compatibility issues. Containers also make it easier to run multiple instances of the same software, improving scalability.
+    
+7. Microservices Architecture: Microservices is a DevOps approach to breaking down a large software system into smaller, independent components, each running its own process. This improves scalability and resilience, as individual components can be updated and deployed independently, without affecting the rest of the system. This approach can be combined with containerization for even greater benefits.
+    
+8. Automated Testing: Automated testing is a key aspect of DevOps, allowing software components to be tested quickly and accurately. Automated tests can be run as part of the CI process, and can cover a wide range of scenarios, from unit tests to integration tests. This helps to ensure that software is of high quality and free of bugs, reducing the risk of outages and improving reliability.
+    
+9. Release Management: Release management is the process of planning and coordinating software releases, including rollbacks and rollouts. In DevOps, release management is automated, allowing software to be deployed quickly and reliably. This helps to ensure that new features and bug fixes are delivered to users as soon as possible, without compromising reliability.
+    
+10. Incident Management: It is the process of responding to and resolving incidents and outages. In DevOps, incident management is automated and streamlined, allowing incidents to be identified and resolved quickly. This is achieved through real-time monitoring, automated incident response, and collaboration between development and operations teams. Effective incident management helps to minimize downtime and improve the overall availability and reliability of the software system.
+    
+    In conclusion, DevOps is an approach to software development that emphasizes collaboration, automation, and continuous delivery. The subtopics discussed above are all critical components of a successful DevOps practice, and help to ensure that software is developed and deployed quickly, reliably, and with high quality. By focusing on these areas, DevOps teams can continuously improve the software development process and deliver better software to their users.
