@@ -14,4 +14,10 @@ List of Blogs are as follow:
 8. Setting a Purpose for the Day
 9. The Impostance of affirmations i our lives
 10. Affirmations for the Day
+11. Important Lessons from Republic Day
+12. Importance of Reviewing your Goals
+13. Never Compare yourselves with others
+14. Conclousions of Topics covered in 2 weeks
+15. DevOps Pe Charcha Jan - 2023
+16. Covering QnA of DevOps Pe Charcha Sessions
 
