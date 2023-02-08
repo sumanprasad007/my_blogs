@@ -1,4 +1,4 @@
-# Implementing Continuous Integration for a Python Application using AWS DevOps Tools
+# Implementing Continuous Integration (CI) for a Python Application using AWS DevOps Tools
 
 How to implement Continuous Integration for a Python application using AWS DevOps tools:
 
