@@ -26,5 +26,7 @@ List of Blogs are as follow:
 20. Inner Engineering: A Yogi's Guide to Joy by Sadhguru
 21. Undersatnding the importance of Reading Books
 22. Breakdown of SDLC model in terms of DevOps 
+23. The Benefits of Implementing Continous Integration in your Software Development Process
+24. 
 
 
