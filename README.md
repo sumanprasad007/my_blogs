@@ -25,5 +25,6 @@ List of Blogs are as follow:
 19. Understanding Software Development as DevOps 
 20. Inner Engineering: A Yogi's Guide to Joy by Sadhguru
 21. Undersatnding the importance of Reading Books
-22. 
+22. Breakdown of SDLC model in terms of DevOps 
+
 
