@@ -27,6 +27,7 @@ List of Blogs are as follow:
 21. Undersatnding the importance of Reading Books
 22. Breakdown of SDLC model in terms of DevOps 
 23. The Benefits of Implementing Continous Integration in your Software Development Process
-24. 
+24. Implementing Continuous Integration (CI) for a Python Application Using AWS DevOps Tools
+25. 
 
 
