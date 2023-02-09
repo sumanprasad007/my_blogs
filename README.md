@@ -20,4 +20,10 @@ List of Blogs are as follow:
 14. Conclousions of Topics covered in 2 weeks
 15. DevOps Pe Charcha Jan - 2023
 16. Covering QnA of DevOps Pe Charcha Sessions
+17. Need of DevOps in the IT
+18. DevOps Pre-requisities
+19. Understanding Software Development as DevOps 
+20. Inner Engineering: A Yogi's Guide to Joy by Sadhguru
+21. Undersatnding the importance of Reading Books
+22. 
 
