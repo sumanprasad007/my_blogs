@@ -2,9 +2,11 @@
 
 ## 👩‍💻 Introduction
 
-StartFragmentContinuous Integration (CI) is a critical component of modern software development that helps teams to streamline the development process, reduce errors, and deliver high-quality software releases. In this blog, we'll focus on how to implement CI for a Python application using AWS DevOps tools, which is a powerful and flexible platform for developing and deploying software. Here are the best practices for implementing CI for a Python application using AWS DevOps tools:
+Continuous Integration (CI) is a critical component of modern software development that helps teams to streamline the development process, reduce errors, and deliver high-quality software releases. In this blog, we'll focus on how to implement CI for a Python application using AWS DevOps tools, which is a powerful and flexible platform for developing and deploying software. Here are the best practices for implementing CI for a Python application using AWS DevOps tools:
 
-### 📍 Here are some best practices that a DevOps Engineer should follow while implementing Continuous Integration for a Python application using AWS DevOps tools:
+## 📍 Best Practices:
+
+Here are some best practices that a DevOps Engineer should follow while implementing Continuous Integration for a Python application using AWS DevOps tools:
 
 1. Plan and design the pipeline: Before setting up the CI/CD pipeline, it is important to plan and design the pipeline to ensure that it meets the requirements and needs of the development team.
     
