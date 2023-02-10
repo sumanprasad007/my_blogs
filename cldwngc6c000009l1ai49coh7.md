@@ -1,6 +1,8 @@
 # Streamline Your Python Development with AWS DevOps
 
-Step-by-step guide for implementing Continuous Integration for a Python application using AWS DevOps tools:
+## Step-by-step guide
+
+For implementing Continuous Integration for a Python application using AWS DevOps tools:
 
 1. **Create an AWS account:** If you don't already have an AWS account, create one by visiting the AWS website and signing up for a new account.
     
@@ -20,5 +22,7 @@ Step-by-step guide for implementing Continuous Integration for a Python applicat
     
 9. **Test the pipeline**: Push a change to the CodeCommit repository to trigger the CI/CD pipeline. Verify that the code is built, tested, analyzed, reviewed, and deployed as expected.
     
+
+## Conclusion
 
 This guide provides a high-level overview of the steps involved in implementing Continuous Integration for a Python application using AWS DevOps tools. The specific details of each step will vary depending on the requirements of your project, but this guide should give you a good starting point.
