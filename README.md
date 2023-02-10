@@ -29,5 +29,7 @@ List of Blogs are as follow:
 23. The Benefits of Implementing Continous Integration in your Software Development Process
 24. Implementing Continuous Integration (CI) for a Python Application Using AWS DevOps Tools
 25. Streamline Your Python Development with AWS DevOps
+26. Best Practices of Continuous Integration (CI)
+
 
 
