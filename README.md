@@ -30,7 +30,7 @@ List of Blogs are as follow:
 24. Implementing Continuous Integration (CI) for a Python Application Using AWS DevOps Tools
 25. Streamline Your Python Development with AWS DevOps
 26. Best Practices of Continuous Integration (CI)
-27. 
+27. Summmary of How to win friends and influence people
 29. DevOps Culture and it's different roles
 
 
