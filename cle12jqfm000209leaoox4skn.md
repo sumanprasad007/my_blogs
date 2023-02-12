@@ -56,4 +56,6 @@ DevOps is a way of working in the technology world where developers and IT opera
 
 In conclusion, DevOps is a way of working where developers and IT operations work together to create amazing software. There are many different jobs in DevOps, each with its own responsibilities and tools. By working together, they can make sure the software is created quickly, efficiently, and with high quality, making everyone happy!
 
+Topic Credits goes to [https://www.linkedin.com/posts/rajani-ekunde-145628157\_devops-docker-techjobs-activity-7026123107966816256-XPIs?utm\_source=share&utm\_medium=member\_desktop](https://www.linkedin.com/posts/rajani-ekunde-145628157_devops-docker-techjobs-activity-7026123107966816256-XPIs?utm_source=share&utm_medium=member_desktop)
+
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676187109428/b26fa9d8-68b7-4272-af78-db7659f33ff6.jpeg align="center")
