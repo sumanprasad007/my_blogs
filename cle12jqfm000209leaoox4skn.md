@@ -1,8 +1,10 @@
 # DevOps Culture & it's different Roles
 
-## 📍 Introduction
+# 📍 Introduction
 
 DevOps is a way of working in the technology world where developers and IT operations work together to create amazing software. They use special tools and processes to make sure that the software is created quickly, efficiently, and with high quality. Here are some common job roles in DevOps, along with examples and tools they use:
+
+# 📍 Roles:
 
 ## DevOps Engineer
 
@@ -52,7 +54,7 @@ DevOps is a way of working in the technology world where developers and IT opera
 
 👨‍💻 A Build and Release Engineer is responsible for managing the build, test, and release of software systems. For example, a Build and Release Engineer might use Git or Subversion for version control and Jenkins or TravisCI to automate the testing and deployment process.
 
-## 📍 Conclusion
+# 📍 Conclusion
 
 In conclusion, DevOps is a way of working where developers and IT operations work together to create amazing software. There are many different jobs in DevOps, each with its own responsibilities and tools. By working together, they can make sure the software is created quickly, efficiently, and with high quality, making everyone happy!
 
