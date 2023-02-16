@@ -32,6 +32,7 @@ List of Blogs are as follow:
 26. Best Practices of Continuous Integration (CI)
 27. Summmary of How to win friends and influence people
 29. DevOps Culture and it's different roles
+30. 
 
 
 
