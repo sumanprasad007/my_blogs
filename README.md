@@ -34,5 +34,5 @@ List of Blogs are as follow:
 29. DevOps Culture and it's different roles
 30. 
 31. 
-
+32. 
 
