@@ -1,4 +1,4 @@
-# 👩‍💻 Continuous Deployment using AWS CodePipeline for a web application
+# 👩‍💻 Continuous Deployment using AWS CodePipeline for a website
 
 # 📍 Introduction
 
@@ -35,6 +35,6 @@ Follow the AWS Official Documentation for more details about the whole process: 
 
 # 📍 Conclusion
 
-In conclusion, deploying a Python web application using AWS CodeDeploy, AWS CodePipeline, and an EC2 instance involves several steps, including setting up the necessary AWS resources, configuring the CodeDeploy agent, creating a CodePipeline, and defining the deployment process. With these steps, the development team can automate the deployment process, ensure that the deployment is reliable, and minimize downtime. By following these steps, developers can also take advantage of the benefits of continuous deployments, such as faster time to market and the ability to quickly respond to customer feedback.
+In conclusion, deploying a website using AWS CodeDeploy, AWS CodePipeline, and an EC2 instance involves several steps, including setting up the necessary AWS resources, configuring the CodeDeploy agent, creating a CodePipeline, and defining the deployment process. With these steps, the development team can automate the deployment process, ensure that the deployment is reliable, and minimize downtime. By following these steps, developers can also take advantage of the benefits of continuous deployments, such as faster time to market and the ability to quickly respond to customer feedback.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676527097053/9f23f42c-21aa-4642-acfa-0c0044719b03.jpeg align="center")
