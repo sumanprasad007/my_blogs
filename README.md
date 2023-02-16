@@ -33,6 +33,6 @@ List of Blogs are as follow:
 27. Summmary of How to win friends and influence people
 29. DevOps Culture and it's different roles
 30. 
-
+31. 
 
 
