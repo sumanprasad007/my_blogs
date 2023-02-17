@@ -36,3 +36,4 @@ List of Blogs are as follow:
 31. Difference between Continuous Delivery and Continuous Deployment
 32. ☁ Different stages of Continuous Deployment
 33. 👩‍💻 Continuous Deployment using AWS CodePipeline for a website
+34. Best practices of Continuous Deployment (CD)
