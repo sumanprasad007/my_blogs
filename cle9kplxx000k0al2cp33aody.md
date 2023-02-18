@@ -4,6 +4,8 @@
 
 Too much thinking will stand in your way to happiness. As a graduate, it's easy to fall into the trap of overthinking. We often put a lot of pressure on ourselves to make the right decisions and achieve success in our careers. However, this excessive thinking can hinder our ability to experience happiness and fulfilment.
 
+## 🔹 Examples:
+
 Consider the example of choosing a career path. You might spend countless hours researching and analyzing different industries and job opportunities. While it's important to make informed decisions, overthinking can lead to feelings of overwhelm and indecision. In some cases, it might even prevent you from taking action and pursuing your goals.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676701323179/5631846e-c58c-46de-8ceb-a3605f282479.jpeg align="center")
