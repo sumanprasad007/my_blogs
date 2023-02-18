@@ -37,5 +37,5 @@ List of Blogs are as follow:
 32. ☁ Different stages of Continuous Deployment
 33. 👩‍💻 Continuous Deployment using AWS CodePipeline for a website
 34. Best practices of Continuous Deployment (CD)
-35.
+35. Happiness is realized within, rather than achieved on the outside
 36.
