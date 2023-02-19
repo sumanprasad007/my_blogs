@@ -39,4 +39,5 @@ List of Blogs are as follow:
 34. Best practices of Continuous Deployment (CD)
 35. Happiness is realized within, rather than achieved on the outside
 36. Overthinking: The Barrier to Experiencing Life to the Fullest
+37. The Surprising Link Between Responsibility and Freedom: A Graduate's Perspective
 
