@@ -1,4 +1,4 @@
-# Body is a ultimate machine
+# Our Body is a ultimate machine
 
 # 📍 Introduction:
 
