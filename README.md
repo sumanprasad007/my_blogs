@@ -40,10 +40,10 @@ List of Blogs are as follow:
 35. Happiness is realized within, rather than achieved on the outside
 36. Overthinking: The Barrier to Experiencing Life to the Fullest
 37. The Surprising Link Between Responsibility and Freedom: A Graduate's Perspective
-38.
-39.
-40.
-41.
+38. Overview of Infrastructure as a Code (IaC)
+39. Difference between Terraform and Cloud Formation with suitable examples
+40. Terraform & it's file structures - Infrastructure as Code (IaC)
+41. 👩‍💻 Launch multiple EC2 Instances using Terraform & also manage secrets
 42.
 43.
 44.
