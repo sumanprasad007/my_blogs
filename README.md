@@ -44,9 +44,9 @@ List of Blogs are as follow:
 39. Difference between Terraform and Cloud Formation with suitable examples
 40. Terraform & it's file structures - Infrastructure as Code (IaC)
 41. 👩‍💻 Launch multiple EC2 Instances using Terraform & also manage secrets
-42.
-43.
-44.
+42. ✔ Best Practices of IaC
+43. Our Body is a ultimate machine
+44. Managing Stress for Graduate Students: Insights from Inner Engineering by Sadhguru
 45.
 46
 47.
