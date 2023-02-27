@@ -58,7 +58,7 @@ variable "region" {
 
 In the above example, `region` is the name of the variable, `string` is the variable type, `"us-east-1"` is the default value, and `"The AWS region where the EC2 instance should be launched"` is the description. This variable can then be used in the [`main.tf`](http://main.tf) file like this:
 
-### ⚜ Integration of above files:
+## 🔹 Integration of above files:
 
 ```python
 resource "aws_instance" "example" {
