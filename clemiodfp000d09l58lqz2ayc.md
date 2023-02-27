@@ -19,7 +19,7 @@ resource "<provider>_<resource_type>" "<name>" {
 }
 ```
 
-Here, `<provider>` is the name of the cloud service provider you are using, and `<resource_type>` is the type of resource you want to create or modify. For example, if you want to create an EC2 instance on Amazon Web Services (AWS), you would use the following syntax:
+Here, `provider` is the name of the cloud service provider you are using, and `resource_type` is the type of resource you want to create or modify. For example, if you want to create an EC2 instance on Amazon Web Services (AWS), you would use the following syntax:
 
 ### ⚜ Example:
 
@@ -44,7 +44,7 @@ variable "<variable_name>" {
 }
 ```
 
-Here, `<variable_name>` is the name of the variable, `<variable_type>` is the type of the variable, `<default_value>` is the default value for the variable, and `<description>` is an optional description of the variable. For example, if you want to define a variable for the region where you want to launch an EC2 instance, you would use the following syntax:
+Here, `variable_name` is the name of the variable, `variable_type` is the type of the variable, `default_value` is the default value for the variable, and `description` is an optional description of the variable. For example, if you want to define a variable for the region where you want to launch an EC2 instance, you would use the following syntax:
 
 ### ⚜ Example:
 
