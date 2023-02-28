@@ -67,6 +67,8 @@ Modules can be tested using automated testing frameworks, allowing for increased
 
 To facilitate module reuse and maintainability, it is recommended to organize modules into a directory structure that reflects the desired hierarchy of the infrastructure. For example, modules related to networking could be stored in a `networking` directory, while modules related to databases could be stored in a `databases` directory.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677590697037/d54e5b38-621e-4c00-940a-7a7e9f56f8d0.gif align="center")
+
 # **📍 Conclusion:**
 
 In Terraform, [`module.tf`](http://module.tf) is used to define reusable modules that can be used as building blocks for larger infrastructures. A module is a self-contained piece of infrastructure that can contain multiple resources and configurations, and can be parameterized to accept input variables. This allows for modular architectures that can be easily scaled and reused across multiple projects. [`module.tf`](http://module.tf) files define the resources and configurations within a module, while the [`main.tf`](http://main.tf) file references the module and passes in the necessary input variables. Modules can also define output values that can be used in other configurations, and can be composed of other modules for even greater flexibility. By using modules in Terraform, infrastructure can be built and managed more efficiently, with greater consistency and reproducibility.
