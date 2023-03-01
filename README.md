@@ -48,7 +48,7 @@ List of Blogs are as follow:
 43. Our Body is a ultimate machine
 44. Managing Stress for Graduate Students: Insights from Inner Engineering by Sadhguru
 45. Understanding main.tf and variables.tf files in Terraform
-46
+46. Module.tf in Terraform along with it's sub-topics  
 47.
 48.
 49.
