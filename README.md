@@ -47,7 +47,7 @@ List of Blogs are as follow:
 42. ✔ Best Practices of IaC
 43. Our Body is a ultimate machine
 44. Managing Stress for Graduate Students: Insights from Inner Engineering by Sadhguru
-45.
+45. Understanding main.tf and variables.tf files in Terraform
 46
 47.
 48.
