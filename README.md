@@ -51,8 +51,9 @@ List of Blogs are as follow:
 46. Module.tf in Terraform along with it's sub-topics  
 47. Terraform.tfstate file in Terraform
 48. Understanding the Power of output.tf for Displaying Comp…
-49.
-50.
+49. Difference between .tfvars and variables.tf files in Ter…
+50. Science behind the breath and how conscious breathing ca…
+
 
 
 
