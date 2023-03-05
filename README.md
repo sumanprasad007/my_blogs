@@ -49,8 +49,8 @@ List of Blogs are as follow:
 44. Managing Stress for Graduate Students: Insights from Inner Engineering by Sadhguru
 45. Understanding main.tf and variables.tf files in Terraform
 46. Module.tf in Terraform along with it's sub-topics  
-47.
-48.
+47. Terraform.tfstate file in Terraform
+48. Understanding the Power of output.tf for Displaying Comp…
 49.
 50.
 
