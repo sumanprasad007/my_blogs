@@ -1,8 +1,8 @@
 ---
-title: "New Action for next 40 Days of #90Days challenge"
+title: "New Action Plan for next 40 Days of #90Days challenge"
 datePublished: Mon Mar 06 2023 14:24:33 GMT+0000 (Coordinated Universal Time)
 cuid: clewwyhq7000609mlhhvb7l1e
-slug: new-action-for-next-40-days-of-90days-challenge
+slug: new-action-plan-for-next-40-days-of-90days-challenge
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678112204616/74deeb54-4294-47ec-8b77-124fc8a562a6.png
 tags: aws, python, developer, devops, beginners
 
