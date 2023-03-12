@@ -3,6 +3,7 @@ title: "Linux OS and Shell Scripts commands"
 datePublished: Sun Mar 12 2023 14:42:28 GMT+0000 (Coordinated Universal Time)
 cuid: clf5i8njw000209mj6adp1m1d
 slug: linux-os-and-shell-scripts-commands
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678632485621/d02c16d5-4a4e-4b06-8261-f665e781042e.jpeg
 tags: aws, python, developer, devops, beginners
 
 ---
