@@ -56,7 +56,7 @@ List of Blogs are as follow:
 51. Significance of purpose and meaning in life
 52. New Action Plan for next 40 Days of #90Days challenge
 53. How DevOps came into existence!
-54. 
+54.  The Role of DevOps Engineer in the SDLC Model
 55.
 
 
