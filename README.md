@@ -54,7 +54,7 @@ List of Blogs are as follow:
 49. Difference between .tfvars and variables.tf files in Ter…
 50. Science behind the breath and how conscious breathing ca…
 51. Significance of purpose and meaning in life
-52. 
+52. New Action Plan for next 40 Days of #90Days challenge
 53. 
 54.
 55.
