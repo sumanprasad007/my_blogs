@@ -3,7 +3,7 @@ title: "Unleashing the Power of GPT-4: A Look at OpenAI's Latest Language Model"
 datePublished: Wed Mar 15 2023 12:27:51 GMT+0000 (Coordinated Universal Time)
 cuid: clf9nr39v000e0al7eupd0xay
 slug: unleashing-the-power-of-gpt-4-a-look-at-openais-latest-language-model
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678883133352/bf990d33-7688-49b4-acb3-ccb66c9b2b16.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678884483495/72b119af-a882-43f1-9203-92ab6cf6bcba.png
 tags: technology, developer, devops, beginners, chatgpt
 
 ---
