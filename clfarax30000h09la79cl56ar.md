@@ -4,6 +4,7 @@ datePublished: Thu Mar 16 2023 06:55:01 GMT+0000 (Coordinated Universal Time)
 cuid: clfarax30000h09la79cl56ar
 slug: understanding-version-control-central-vs-distributed-systems-and-git-vs-github
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678950007832/b2afab68-0815-4380-842c-25a82b224e37.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678957158623/a3a03e5b-5732-4423-93ee-3fba217d7d71.png
 tags: github, python, developer, devops, beginners
 
 ---
