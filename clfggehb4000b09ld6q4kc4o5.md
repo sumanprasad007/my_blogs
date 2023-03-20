@@ -51,120 +51,105 @@ As cloud computing continues to dominate the technology landscape, AWS has becom
 
 # **📍 AWS CLI Commands for Services:**
 
-1. Amazon EC2:
-    
+### **🔹** Amazon EC2:
 
 ```python
 # Create an EC2 instance
 aws ec2 run-instances --image-id ami-0c55b159cbfafe1f0 --count 1 --instance-type t2.micro --key-name my-key-pair --security-group-ids sg-12345678
 ```
 
-1. Amazon S3:
-    
+### **🔹** Amazon S3:
 
 ```python
 # Create an S3 bucket
 aws s3api create-bucket --bucket my-bucket-name --region us-east-1
 ```
 
-1. Amazon RDS:
-    
+### **🔹** Amazon RDS:
 
 ```python
 # Create an RDS instance
 aws rds create-db-instance --db-instance-identifier mydbinstance --engine mysql --db-instance-class db.t2.micro --allocated-storage 20 --master-username mymasteruser --master-user-password mymasterpassword
 ```
 
-1. Amazon CloudWatch:
-    
+### **🔹** Amazon CloudWatch:
 
 ```python
 # Create a CloudWatch alarm
 aws cloudwatch put-metric-alarm --alarm-name myalarm --alarm-description "My alarm description" --metric-name CPUUtilization --namespace AWS/EC2 --statistic Average --period 300 --threshold 80 --comparison-operator GreaterThanThreshold --dimensions Name=InstanceId,Value=i-12345678 --evaluation-periods 2 --alarm-actions arn:aws:sns:us-east-1:123456789012:mytopic
 ```
 
-1. AWS Lambda:
-    
+### **🔹** AWS Lambda:
 
 ```python
 # Create a Lambda function
 aws lambda create-function --function-name my-function --runtime python3.8 --role arn:aws:iam::123456789012:role/lambda-execution-role --handler index.lambda_handler --code S3Bucket=my-bucket,S3Key=my-function.zip
 ```
 
-1. AWS CodePipeline:
-    
+### **🔹** AWS CodePipeline:
 
 ```python
 # Create a CodePipeline pipeline
 aws codepipeline create-pipeline --pipeline-name my-pipeline --role-arn arn:aws:iam::123456789012:role/CodePipelineServiceRole --cli-input-json file://pipeline.json
 ```
 
-1. AWS CodeDeploy:
-    
+### **🔹** AWS CodeDeploy:
 
 ```python
 # Create a CodeDeploy application
 aws deploy create-application --application-name my-app --compute-platform Server
 ```
 
-1. AWS CloudFormation:
-    
+### **🔹** AWS CloudFormation:
 
 ```python
 # Create a CloudFormation stack
 aws cloudformation create-stack --stack-name my-stack --template-body file://my-template.json --parameters ParameterKey=Param1,ParameterValue=value1 ParameterKey=Param2,ParameterValue=value2
 ```
 
-1. Amazon Route 53:
-    
+### **🔹** Amazon Route 53:
 
 ```python
 # Create a Route 53 record set
 aws route53 change-resource-record-sets --hosted-zone-id Z123456789012 --change-batch file://record-set.json
 ```
 
-1. Amazon ECS:
-    
+### **🔹** Amazon ECS:
 
 ```python
 # Create an ECS cluster
 aws ecs create-cluster --cluster-name my-cluster
 ```
 
-1. Amazon EKS:
-    
+### **🔹** Amazon EKS:
 
 ```python
 # Create an EKS cluster
 aws eks create-cluster --name my-cluster --role-arn arn:aws:iam::123456789012:role/eks-service-role --resources-vpc-config subnetIds=subnet-12345678,subnet-23456789,securityGroupIds=sg-12345678
 ```
 
-1. AWS Elastic Beanstalk:
-    
+### **🔹** AWS Elastic Beanstalk:
 
 ```python
 # Create an Elastic Beanstalk application
 aws elasticbeanstalk create-application --application-name my-app
 ```
 
-1. Amazon SQS:
-    
+### **🔹** Amazon SQS:
 
 ```python
 # Create an SQS queue
 aws sqs create-queue --queue-name my-queue
 ```
 
-1. Amazon SNS:
-    
+### **🔹** Amazon SNS:
 
 ```python
 # Create an SNS topic
 aws sns create-topic --name my-topic
 ```
 
-1. AWS IAM:
-    
+### **🔹** AWS IAM:
 
 ```python
 # Create an IAM user
@@ -172,6 +157,10 @@ aws iam create-user --user-name my
 ```
 
 ---
+
+# **📍 Conclusion:**
+
+In this blog, we have discussed the top 15 crucial AWS Services that every DevOps Engineer should know to carry out their day-to-day tasks and even we have provided the AWS CLI Commands to check the status and important details related to each AWS Service respectively...
 
 ## **🔹 Video-Link to follow along:**
 
