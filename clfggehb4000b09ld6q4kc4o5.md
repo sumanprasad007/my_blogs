@@ -12,7 +12,7 @@ tags: aws, python, developer, devops, beginners
 
 As cloud computing continues to dominate the technology landscape, AWS has become one of the most popular cloud providers in the world. DevOps engineers play a crucial role in managing and deploying applications on AWS, and there are several key services that they should be familiar with. In this article, we'll explore the top 15 AWS services that every DevOps engineer should learn and provide examples of how they can be used.
 
-## **📍 Services with examples:**
+## **📢 Services with examples:**
 
 ![Logos of the Amazon cloud services AWS on a heap on a table. Web banner format with copy space.](https://as2.ftcdn.net/v2/jpg/05/34/75/21/1000_F_534752160_FR1omD4gNaEFfrJJtKc0IMl22WYIztMV.jpg align="left")
 
