@@ -49,7 +49,7 @@ As cloud computing continues to dominate the technology landscape, AWS has becom
 
 ---
 
-# **📢 AWS CLI Commands for Services:**
+# **📍 AWS CLI Commands for Services:**
 
 1. Amazon EC2:
     
