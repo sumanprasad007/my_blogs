@@ -3,6 +3,7 @@ title: "Overview of Configuration Management Tool - Ansible"
 datePublished: Tue Mar 21 2023 06:20:11 GMT+0000 (Coordinated Universal Time)
 cuid: clfhv9dfh000i09l708pz5cp1
 slug: overview-of-configuration-management-tool-ansible
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679379702227/fab4e1d2-1d25-47cd-9c7e-758e8e427024.jpeg
 tags: aws, python, developer, devops, beginners
 
 ---
