@@ -16,8 +16,7 @@ In today's fast-paced world, managing multiple servers and ensuring their config
 
 1. Open your terminal or command prompt.
     
-
-1. Generate SSH keys using the ssh-keygen command on your Ansible control machine:
+2. Generate SSH keys using the ssh-keygen command on your Ansible control machine:
     
 
 ```python
@@ -38,9 +37,7 @@ javascriptCopy codessh-copy-id -i ~/.ssh/id_rsa.pub <username>@<server_ip>
 phpCopy codessh <username>@<server_ip>
 ```
 
-### **🔹**
-
-### Next, let's create an inventory file to store 10 server IPs and group them as "ubuntu":
+### **🔹 C**reate an inventory file to store 10 server IPs and group them as "ubuntu":
 
 ```python
 [ubuntu]
