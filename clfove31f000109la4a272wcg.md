@@ -42,6 +42,8 @@ Nasiullah's journey in the field is inspiring, and he shares valuable tips for t
 
 I also appreciated Nasiullah's advice on how to get remote jobs or internships in DevOps and how to become involved in communities such as AWS Community Builder. His tips on managing time and workload, communicating with clients, and setting fair prices for services were also highly informative.
 
+For new freelancers, Nasiullah recommends developing a strong work ethic, building a solid reputation through quality work, and networking with other professionals in the field. He also emphasizes the importance of continuous learning and updating your skills to stay relevant in the industry. For those just starting their careers in DevOps, Nasiullah advises them to focus on building a solid foundation in the tools and technologies, networking with professionals in the field, and keeping up with the latest trends and developments in the industry.
+
 # **📍 Conclusion:**
 
 Overall, this video offers valuable insight into the world of DevOps freelancing. Whether you're just starting in the field or are already a seasoned freelancer, there is something to learn from Nasiullah's journey and his tips for success. So, if you're interested in the world of DevOps freelancing, be sure to check out this video!
