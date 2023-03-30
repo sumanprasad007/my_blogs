@@ -1,8 +1,8 @@
 ---
-title: "Setup Nginx using Ansible Playbook"
+title: "Configuring Nginx using Ansible Playbook"
 datePublished: Wed Mar 29 2023 04:54:29 GMT+0000 (Coordinated Universal Time)
 cuid: clft7pz7m000c09l9b87k2izu
-slug: setup-nginx-using-ansible-playbook
+slug: configuring-nginx-using-ansible-playbook
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679989856169/228f39ed-6dd5-4407-8bd0-c1da358142fa.png
 tags: linux, python, developer, devops, beginners
 
