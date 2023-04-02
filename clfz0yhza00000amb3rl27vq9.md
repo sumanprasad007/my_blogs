@@ -23,18 +23,14 @@ sudo apt install openjdk-11-jre
 
 Install Jenkins Once you have JDK installed on your EC2 instance, you can proceed with the installation of Jenkins. Follow the below steps to install Jenkins.
 
-## **🔹** Step 1:
-
-Add Jenkins repository key to the system
+## **🔹** Step 1: Add Jenkins repository key to the system
 
 ```python
 curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo tee \
   /usr/share/keyrings/jenkins-keyring.asc > /dev/null
 ```
 
-## **🔹** Step 2:
-
-Add the Jenkins repository to your system
+## **🔹** Step 2: Add the Jenkins repository to your system
 
 ```python
 echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
@@ -42,18 +38,14 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
   /etc/apt/sources.list.d/jenkins.list > /dev/null
 ```
 
-## **🔹** Step 3:
-
-Update your system and install Jenkins
+## **🔹** Step 3: Update your system and install Jenkins
 
 ```python
 sudo apt-get update
 sudo apt-get install jenkins
 ```
 
-## **🔹** Step 4:
-
-Open port 8080 in the inbound traffic rules of your EC2 instance
+## **🔹** Step 4: Open port 8080 in the inbound traffic rules of your EC2 instance
 
 By default, Jenkins will not be accessible to the external world due to the inbound traffic restriction by AWS. Open port 8080 in the inbound traffic rules as shown below.
 
@@ -66,9 +58,7 @@ By default, Jenkins will not be accessible to the external world due to the inbo
 4. Add inbound traffic rules as shown in the image (you can just allow TCP 8080 as well, in my case, I allowed All traffic).
     
 
-## **🔹** Step 5:
-
-Login to Jenkins using the below URL:
+## **🔹** Step 5: Login to Jenkins using the below URL:
 
 ```python
 http://<ec2-instance-public-ip>:8080
@@ -76,9 +66,7 @@ http://<ec2-instance-public-ip>:8080
 
 Note: If you are not interested in allowing All Traffic to your EC2 instance, you can delete the inbound traffic rule for your instance or edit the inbound traffic rule to only allow custom TCP port 8080.
 
-## **🔹** Step 6:
-
-Retrieve the Jenkins Admin Password
+## **🔹** Step 6: Retrieve the Jenkins Admin Password
 
 Run the command to copy the Jenkins Admin Password
 
@@ -86,15 +74,11 @@ Run the command to copy the Jenkins Admin Password
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
-## **🔹** Step 7:
-
-Install suggested plugins
+## **🔹** Step 7: Install suggested plugins
 
 Click on Install suggested plugins and wait for Jenkins to Install suggested plugins.
 
-## **🔹** Step 8:
-
-Create First Admin User (Optional)
+## **🔹** Step 8: Create First Admin User (Optional)
 
 You can create a first admin user or skip this step if you want to use this Jenkins instance for future use cases as well.
 
