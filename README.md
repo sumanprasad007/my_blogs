@@ -59,6 +59,11 @@ List of Blogs are as follow:
 54. The Role of DevOps Engineer in the SDLC Model
 55. Understanding - Server, Hypervisor, and Virtual Machines
 56. 
+57.
+58.
+59.
+60.
+
 
 
 
