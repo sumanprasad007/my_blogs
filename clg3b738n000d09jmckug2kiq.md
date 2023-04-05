@@ -22,6 +22,8 @@ I also want to extend my thanks to the Hashnode community for providing such an 
 
 # **📍 Reflections:**
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680676457995/52dc1092-67ba-4d52-b193-8c906006fb0e.png align="center")
+
 Reflections on the Journey When I started my blog on Hashnode, I never imagined that it would grow to this extent. It has been an incredible journey filled with learning, growth, and opportunities. Along the way, I have encountered challenges, faced self-doubt, and experienced moments of frustration. However, the support and feedback from my readers and the Hashnode community have kept me going.
 
 One of the most valuable lessons I have learned from this experience is the importance of consistency and perseverance. Building an audience and achieving significant pageviews requires consistent effort and dedication. It's not always easy, but it's worth it. Celebrating small wins, such as hitting the 10K+ pageviews milestone, has been a reminder of the progress I've made and the impact my content has had on my readers.
