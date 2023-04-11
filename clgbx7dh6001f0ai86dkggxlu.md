@@ -234,7 +234,7 @@ The output of the above command
     Successfully tagged sumanprasad007/my-first-docker-image:latest
 ```
 
-### Verify Docker Image is created
+### **🔹** Verify Docker Image is created
 
 ```python
 docker images
@@ -248,7 +248,7 @@ sumanprasad007/my-first-docker-image   latest    960d37536dcd   58 seconds ago  
 hello-world                        latest    feb5d9fea6a5   14 months ago    13.3kB
 ```
 
-### Run your First Docker Container
+### **🔹** Run your First Docker Container
 
 ```python
 docker run -it sumanprasad007/my-first-docker-image
@@ -260,7 +260,7 @@ Output
 Hello World
 ```
 
-### Push the Image to DockerHub and share it with the world
+### **🔹** Push the Image to DockerHub and share it with the world
 
 ```python
 docker push sumanprasad007/my-first-docker-image
