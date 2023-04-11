@@ -3,6 +3,7 @@ title: "Docker Zero to Hero: Streamlining Development and Deployment of Applicat
 datePublished: Tue Apr 11 2023 07:07:42 GMT+0000 (Coordinated Universal Time)
 cuid: clgbx7dh6001f0ai86dkggxlu
 slug: docker-zero-to-hero-streamlining-development-and-deployment-of-applications
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681197325029/f571fbae-8261-45d6-a13b-7efc0c67b7aa.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681197287922/afdd374b-84be-4ac2-b820-9c4fbdc0f4cf.png
 tags: linux, aws, developer, devops, beginners
 
