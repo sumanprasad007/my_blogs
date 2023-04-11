@@ -105,11 +105,11 @@ When you use the docker pull or docker run commands, the required images are pul
 
 When you use Docker, you are creating and using images, containers, networks, volumes, plugins, and other objects. This section is a brief overview of some of those objects.
 
-### **🔹** Dockerfile & Docker Image
+### **🔹** Dockerfile
 
 Dockerfile is a file where you provide the steps to build your Docker Image.
 
-#### Images
+### **🔹** Docker Image
 
 An image is a read-only template with instructions for creating a Docker container. Often, an image is based on another image, with some additional customization. For example, you may build an image which is based on the Ubuntu image but installs the Apache web server and your application, as well as the configuration details needed to make your application run.
 
