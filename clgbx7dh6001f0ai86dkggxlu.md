@@ -267,3 +267,17 @@ Hello World
 ```python
 docker push sumanprasad007/my-first-docker-image
 ```
+
+# **📍 Conclusion:**
+
+Docker has become a popular tool in the software development and deployment landscape. With its ability to package applications and dependencies into portable containers, Docker provides a streamlined and efficient way to deploy applications across different environments. Docker's versatility and ease of use make it an ideal solution for modern software development practices such as continuous integration and delivery.
+
+# **📍 Resources:**
+
+%[https://youtu.be/wodLpta-hoQ?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa] 
+
+```python
+I invite you to check my portfolio in case you are interested in contacting me for a project!. Prasad Suman Mohan
+
+🔵 Don't forget to follow me also on LinkedIn: https://www.linkedin.com/in/prasad-suman-mohan/
+```
