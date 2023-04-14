@@ -23,7 +23,7 @@ Multi-stage Docker builds allow you to build an application in multiple stages, 
 Let's take a look at an example Dockerfile that uses multi-stage builds to build a simple Go application:
 
 ```python
-sqlCopy codeFROM ubuntu AS build
+FROM ubuntu AS build
 
 RUN apt-get update && apt-get install -y golang-go
 
@@ -65,7 +65,7 @@ To create a distroless image, we need to use a base image that does not contain 
 Let's modify our Dockerfile to use the Distroless image:
 
 ```python
-bashCopy code# Use a Distroless base image
+# Use a Distroless base image
 FROM gcr.io/distroless/static
 
 # Copy the compiled binary from the build stage
