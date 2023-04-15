@@ -10,7 +10,7 @@ tags: linux, aws, developer, devops, beginners
 
 # **📍 I'm Grateful to all my LinkedIn Community**
 
-### Completed --&gt; Day 90 of the #90days challenge, and I'm 😊 over the moon with joy!
+### 🎉Completed --&gt; Day 90 of the #90days challenge, and I'm 😊 over the moon with joy!
 
 Wow🎉, what a journey this has been! I can't believe it's already Day 90 of the #90days challenge. It feels like just yesterday that I started this challenge, but now that it's over, I can confidently say that it was one of the best decisions I've ever made.
 
