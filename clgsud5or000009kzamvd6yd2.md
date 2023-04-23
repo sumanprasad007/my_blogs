@@ -8,6 +8,8 @@ tags: linux, aws, dev-tools, developer, beginners
 
 ---
 
+I would like to express my gratitude to Shubham Sir for initiating the #90daysofDevOps challenge. As a member of the DevOps community, I have greatly benefited from this challenge and am honoured to be mentored by Shubham Sir. Moreover, I would like to extend my thanks to the entire DevOps & @[Shubham Londhe](@TrainWithShubham) (TrainWithShubham) community for being supportive and inclusive. This community are a great source of inspiration and motivation for aspiring DevOps professionals like me. I am proud to be part of this community and look forward to contributing to its growth and success.
+
 # **📍** Meetup Experience
 
 I recently had the pleasure of meeting Shubham Sir, a well-known influencer in the field of DevOps, and I couldn't be more grateful for the experience. During our meetup, we discussed various topics related to DevOps and shared our experiences. Shubham Sir is incredibly down-to-earth and approachable, despite his impressive fanbase, followers, and subscribers.
