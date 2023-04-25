@@ -10,7 +10,9 @@ tags: linux, aws, developer, devops, beginners
 
 # **📍** Introduction:
 
-Kubernetes is an open-source platform that is widely used for container orchestration. It is designed to automate the deployment, scaling, and management of containerized applications. Kubernetes can be used to manage and run applications in a variety of environments, including public, private, and hybrid clouds. Kubernetes provides a rich set of features that help manage the complexity of deploying and managing containerized applications at scale. In this blog, we will explain the Kubernetes architecture and its components.
+Welcome to TWS Kubernetes Challenge, where we believe in constant learning and growth. Whether you're a beginner or an experienced professional, our 7-days #KubeWeek challenge is designed to help you sharpen your skills and explore the limitless possibilities of Kubernetes. Day -1 of this 7-day challenge **#techwithshubham** **#kubeweek**
+
+ Kubernetes is an open-source platform that is widely used for container orchestration. It is designed to automate the deployment, scaling, and management of containerized applications. Kubernetes can be used to manage and run applications in a variety of environments, including public, private, and hybrid clouds. Kubernetes provides a rich set of features that help manage the complexity of deploying and managing containerized applications at scale. In this blog, we will explain the Kubernetes architecture and its components.
 
 # **📍** Kubernetes Architecture:
 
