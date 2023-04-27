@@ -1,9 +1,9 @@
 ---
-title: "Kubernetes Workloads (Deployments, StatefulSets, DaemonSets, Jobs,
+title: "Day 3 - Kubernetes Workloads (Deployments, StatefulSets, DaemonSets, Jobs,
 CronJobs)"
 datePublished: Thu Apr 27 2023 04:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clgymn1an045qw4nvhrf797o1
-slug: kubernetes-workloads-deployments-statefulsets-daemonsets-jobs-cronjobs
+slug: day-3-kubernetes-workloads-deployments-statefulsets-daemonsets-jobs-cronjobs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682529350982/04c0d302-4e85-4e35-9cd0-7d3a14cca002.png
 tags: linux, aws, developer, devops, beginners
 
