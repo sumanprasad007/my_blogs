@@ -181,7 +181,7 @@ kubectl apply nginx-daemonset.yml
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682513502795/d2862f95-bad4-4d86-a665-e3ab3a5da254.png align="center")
 
-## **📍 Kubernetes Jobs:**
+# **📍 Kubernetes Jobs:**
 
 Kubernetes Jobs are used to run a specific task or set of tasks to completion. When a Job is created, a specific number of Pods are created to execute the task(s) in parallel. Once all the Pods have completed the task, the Job is considered complete. Kubernetes Jobs are useful for running batch processing jobs or any type of one-off task that needs to be completed in a specific time frame.
 
@@ -245,7 +245,7 @@ kubectl delete job example-job
 
 This command will delete the "example-job" Job and all the Pods it created.
 
-## **📍 Kubernetes CronJobs:**
+# **📍 Kubernetes CronJobs:**
 
 Kubernetes CronJobs are used to schedule recurring tasks in a Kubernetes cluster. They are similar to Unix cron jobs in that they allow users to specify a schedule for when a task should be executed. Kubernetes CronJobs are useful for tasks that need to be performed on a regular basis, such as backing up a database or sending out regular reports.
 
