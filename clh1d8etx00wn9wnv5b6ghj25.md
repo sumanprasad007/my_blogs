@@ -13,7 +13,7 @@ tags: software-development, aws, developer, devops, beginners
 
 Kubernetes has become the de facto standard for container orchestration due to its flexibility, scalability, and robustness. In this blog post, we will explore two crucial aspects of Kubernetes: storage and security. We will delve into concepts such as Persistent Volumes, Persistent Volume Claims, Storage Classes, StatefulSets, RBAC (Role-Based Access Control), Pod Security Policies, Secrets, Network Policies, and TLS (Transport Layer Security). By understanding these concepts and their implementation, you will be able to enhance the storage capabilities and security posture of your Kubernetes clusters.
 
-### **🔹 Persistent Volumes**
+## **🔹 Persistent Volumes**
 
 Persistent Volumes (PVs) in Kubernetes provide durable storage resources that can be shared across multiple pods. They are decoupled from individual pods, allowing data persistence even when pods are terminated or rescheduled.
 
