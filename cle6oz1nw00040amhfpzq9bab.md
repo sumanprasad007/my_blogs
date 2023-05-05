@@ -1,4 +1,12 @@
-# 👩‍💻 Continuous Deployment using AWS CodePipeline for a website
+---
+title: "👩‍💻 Continuous Deployment using AWS CodePipeline for a website"
+datePublished: Thu Feb 16 2023 05:59:01 GMT+0000 (Coordinated Universal Time)
+cuid: cle6oz1nw00040amhfpzq9bab
+slug: continuous-deployment-using-aws-codepipeline-for-a-website
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676527053865/fbe6ba6e-2668-4cc2-b951-1745800d9081.jpeg
+tags: blogging, python, developer, devops, 2articles1week
+
+---
 
 # 📍 Introduction
 
