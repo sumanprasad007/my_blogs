@@ -1,4 +1,12 @@
-# Implementing Continuous Integration (CI) for a Python Application using AWS DevOps Tools
+---
+title: "Implementing Continuous Integration (CI) for a Python Application using AWS DevOps Tools"
+datePublished: Wed Feb 08 2023 05:50:53 GMT+0000 (Coordinated Universal Time)
+cuid: cldv95rjy000f08l5bwr12tdj
+slug: implementing-continuous-integration-ci-for-a-python-application-using-aws-devops-tools
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675835349248/a53fc230-826c-4f25-8f51-4a12715bc31b.jpeg
+tags: blog, blogging, devops, 2articles1week, blogswithcc
+
+---
 
 How to implement Continuous Integration for a Python application using AWS DevOps tools:
 
