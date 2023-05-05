@@ -1,8 +1,8 @@
 ---
-title: "KUBERNETES SERVICES DEEP DIVE| Demonstration Steps| LEARN TRAFFIC FLOW USING KUBESHARK"
+title: "Kubernetes Services Deep Dive| Demonstration Steps| Learn Traffic Flow Using Kubershark"
 datePublished: Fri May 05 2023 11:21:26 GMT+0000 (Coordinated Universal Time)
 cuid: clhagu3vg001b09mkhro120cy
-slug: kubernetes-services-deep-dive-demonstration-steps-learn-traffic-flow-using-kubeshark
+slug: kubernetes-services-deep-dive-demonstration-steps-learn-traffic-flow-using-kubershark
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683285659223/9a70ede6-13d3-49c8-91b0-d2e7ac96c21d.png
 tags: software-development, aws, developer, devops, beginners
 
