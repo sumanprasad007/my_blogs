@@ -1,4 +1,12 @@
-# Streamline Your Python Development with AWS DevOps
+---
+title: "Streamline Your Python Development with AWS DevOps"
+datePublished: Thu Feb 09 2023 05:18:47 GMT+0000 (Coordinated Universal Time)
+cuid: cldwngc6c000009l1ai49coh7
+slug: streamline-your-python-development-with-aws-devops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675919853210/92be9287-401e-4c09-97ff-d1ef773adf98.jpeg
+tags: devops, 2articles1week, ci-cd, blogwithcc, 90daysofdevops
+
+---
 
 ## Step-by-step guide
 
