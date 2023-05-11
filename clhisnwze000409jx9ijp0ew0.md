@@ -1,8 +1,8 @@
 ---
-title: "Kubernetes RBAC Introduction with Demo"
+title: "Introduction to Kubernetes RBAC"
 datePublished: Thu May 11 2023 07:14:41 GMT+0000 (Coordinated Universal Time)
 cuid: clhisnwze000409jx9ijp0ew0
-slug: kubernetes-rbac-introduction-with-demo
+slug: introduction-to-kubernetes-rbac
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683785014682/bac98ca4-d2f9-4f31-8130-93f3eeecbe4a.png
 tags: software-development, aws, developer, devops, beginners
 
