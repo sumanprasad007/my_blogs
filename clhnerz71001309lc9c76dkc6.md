@@ -1,8 +1,8 @@
 ---
-title: "Kubernetes Custom Resources | Custom Controller | Deep Dive & Detailed Explanation"
+title: "Kubernetes Custom Resources | Custom Resources Definition (CRD) | Custom Controller"
 datePublished: Sun May 14 2023 12:44:47 GMT+0000 (Coordinated Universal Time)
 cuid: clhnerz71001309lc9c76dkc6
-slug: kubernetes-custom-resources-custom-controller-deep-dive-detailed-explanation
+slug: kubernetes-custom-resources-custom-resources-definition-crd-custom-controller
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684067884060/9dbd8677-0b54-4c02-a4d7-4f4c54550177.jpeg
 tags: software-development, aws, developer, devops, beginners
 
