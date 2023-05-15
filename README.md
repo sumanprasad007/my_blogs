@@ -1,6 +1,6 @@
 # my_blogs
 
-# CI/CD STATUS - GitHub Action: [![CI](https://github.com/sumanprasad007/my_blogs/actions/workflows/cicd.yml/badge.svg)](https://github.com/sumanprasad007/my_blogs/actions/workflows/cicd.yml)
+### CI/CD STATUS - GitHub Action: [![CI](https://github.com/sumanprasad007/my_blogs/actions/workflows/cicd.yml/badge.svg)](https://github.com/sumanprasad007/my_blogs/actions/workflows/cicd.yml)
 
 # This Repository comprises of all the blogs posts of mine published on Hashnode and LinkedIn Platform
 
