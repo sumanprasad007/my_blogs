@@ -3,7 +3,7 @@ title: "Aws Live Project | Deploy App Using Httpd"
 datePublished: Thu May 18 2023 03:26:12 GMT+0000 (Coordinated Universal Time)
 cuid: clhskl1ck000009mh2iaa8trp
 slug: aws-live-project-deploy-app-using-httpd
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684344318601/6d039dbd-266b-4d2c-9e2d-67c565c13f49.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684380580568/aa6a40c4-1804-4af4-babc-bb44bd3b66b6.jpeg
 tags: software-development, aws, developer, devops, beginners
 
 ---
