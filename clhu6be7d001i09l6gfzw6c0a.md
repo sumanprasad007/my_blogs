@@ -10,7 +10,7 @@ tags: software-development, aws, developer, devops, beginners
 
 ## **📍** Introduction:
 
-Today marks a significant milestone in my career as I successfully completed the "DevOps Zero to Hero" course by Abhishek Veeramalla. Over the course of 45 days, this comprehensive program has taken me on an incredible journey of discovery and learning. With a curriculum covering a wide range of topics, hands-on projects, and in-depth discussions on tools and best practices, I feel equipped with the skills and knowledge to thrive as a Cloud DevOps Engineer. In this blog, I want to share my experiences and express my gratitude for the invaluable insights gained from this course 🔗 [https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)
+Today marks a significant milestone in my career as I successfully completed the "DevOps Zero to Hero" course by Abhishek Veeramalla. Over the course of 45 days, this comprehensive program has taken me on an incredible journey of discovery and learning. With a curriculum covering a wide range of topics, hands-on projects, and in-depth discussions on tools and best practices, I feel equipped with the skills and knowledge to thrive as a Cloud DevOps Engineer. In this blog, I want to share my experiences and express my gratitude for the invaluable insights gained from this course 🔗 click below on the Image: 👇
 
 %[https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa] 
 
