@@ -1,8 +1,8 @@
 ---
-title: "Creating Resume for DevOps Engineer Role with tips"
+title: "Create Impressive Resume for DevOps Engineer Role"
 datePublished: Sat May 20 2023 07:46:12 GMT+0000 (Coordinated Universal Time)
 cuid: clhvor3gp001009l66iep7m33
-slug: creating-resume-for-devops-engineer-role-with-tips
+slug: create-impressive-resume-for-devops-engineer-role
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684565584829/aecb9dde-d148-4537-9bdc-8f2715eb6697.png
 tags: software-development, aws, developer, devops, beginners
 
