@@ -44,6 +44,8 @@ In the realm of AWS, where identity holds immense power, IAM permissions and rol
 
 Behold, a glimpse into the magnificent high-level design of AWS Samurai! The interface, adorned with the essence of our noble warrior, allows you to configure and customize the behavior of Lambda functions. Harness their power to shape the destiny of your AWS governance, ensuring optimal performance, unwavering security, and unparalleled efficiency. The screenshot presented showcases the awe-inspiring AWS Samurai interface, a portal to victory in the realm of AWS governance! 🎨👨‍💻🖥️
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658048078/11226223-c46c-49aa-92e1-fd18ca7bc147.png align="center")
+
 ## **📍** Real-world Examples 🌍💡:
 
 ## 1️⃣ Securing S3 Fortresses:
