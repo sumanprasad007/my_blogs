@@ -1,0 +1,174 @@
+---
+title: "Efficient CI/CD for Java Applications with GitHub Actions"
+datePublished: Tue May 30 2023 03:46:07 GMT+0000 (Coordinated Universal Time)
+cuid: cli9qkvh6000909lb5m2440sm
+slug: efficient-cicd-for-java-applications-with-github-actions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685386681180/223a4b91-2b06-42d4-bfb4-112fde31d4d1.png
+tags: software-development, web-development, developer, devops, beginners
+
+---
+
+# **📍** Introduction:
+
+Continuous Integration and Continuous Deployment (CI/CD) are essential practices in modern software development. They help streamline the development process, reduce errors, and ensure that your application is always up-to-date. In this blog, we'll walk you through setting up a CI/CD pipeline for a Java application using GitHub Actions. We'll cover everything from creating a simple Java application to deploying it using GitHub Actions.
+
+# 📝 Pre-requisites:
+
+* A GitHub account
+    
+* Basic knowledge of Java and Maven
+    
+
+### 🚀 Step 1: Create a Java application
+
+First, let's create a simple Java application using Maven. Open your terminal and run the following command:
+
+```plaintext
+mvn archetype:generate -DgroupId=com.example -DartifactId=my-java-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+```
+
+This command generates a basic Java application with the following structure:
+
+```plaintext
+my-java-app
+├── pom.xml
+└── src
+    ├── main
+    │   └── java
+    │       └── com
+    │           └── example
+    │               └── App.java
+    └── test
+        └── java
+            └── com
+                └── example
+                    └── AppTest.java
+```
+
+### 🚀 Step 2: Initialize a Git repository
+
+Navigate to the **my-java-app** directory and initialize a Git repository:
+
+```plaintext
+cd my-java-app
+git init
+```
+
+Create a **.gitignore** file to exclude unnecessary files from the repository:
+
+```plaintext
+echo "target/" > .gitignore
+```
+
+Commit the initial project files:
+
+```plaintext
+git add .
+git commit -m "Initial commit"
+```
+
+### 🚀 Step 3: Create a GitHub repository
+
+Create a new repository on GitHub and push your local repository to it:
+
+```plaintext
+git remote add origin https://github.com/your-username/my-java-app.git
+git branch -M main
+git push -u origin main
+```
+
+### 🚀 Step 4: Set up GitHub Actions
+
+Create a new directory called **.github/workflows** in your project:
+
+```plaintext
+mkdir -p .github/workflows
+```
+
+Create a new file called **ci-cd.yml** inside the **.github/workflows** directory:
+
+```plaintext
+touch .github/workflows/ci-cd.yml
+```
+
+Open the **ci-cd.yml** file and add the following content:
+
+```plaintext
+name: Java CI/CD
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up JDK 11
+      uses: actions/setup-java@v2
+      with:
+        java-version: '11'
+        distribution: 'adopt'
+
+    - name: Cache Maven packages
+      uses: actions/cache@v2
+      with:
+        path: ~/.m2
+        key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
+        restore-keys: ${{ runner.os }}-m2
+
+    - name: Build and test with Maven
+      run: mvn clean verify
+
+    - name: Package application
+      run: mvn package
+
+    - name: Deploy
+      if: github.ref == 'refs/heads/main'
+      run: echo "Deploy your application here"
+```
+
+This GitHub Actions workflow does the following:
+
+* Triggers on push and pull request events to the **main** branch
+    
+* Checks out the repository
+    
+* Sets up JDK 11
+    
+* Caches Maven packages for faster builds
+    
+* Builds and tests the application using Maven
+    
+* Packages the application
+    
+* Deploys the application (replace the **echo** command with your deployment script)
+    
+
+### 🚀 Step 5: Commit and push the GitHub Actions workflow
+
+Add the new GitHub Actions workflow to your repository:
+
+```plaintext
+git add .github/workflows/ci-cd.yml
+git commit -m "Add GitHub Actions CI/CD workflow"
+git push
+```
+
+Now, whenever you push changes to your **main** branch or create a pull request, the GitHub Actions workflow will automatically build, test, and deploy your Java application.
+
+# **📍** Conclusion:
+
+In this blog, we've demonstrated how to set up a CI/CD pipeline for a Java application using GitHub Actions. By following these steps, you can automate the build, test, and deployment processes for your Java projects, ensuring that your application is always up-to-date and error-free. Happy coding!
+
+## **🔹 Checkout GitHub Repository for projects:**
+
+**🔗** [**github.com/sumanprasad007**](http://github.com/sumanprasad007)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1685385446227/c09471bd-a604-42f1-9766-0436cbb3b145.png align="center")
