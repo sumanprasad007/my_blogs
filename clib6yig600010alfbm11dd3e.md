@@ -31,7 +31,7 @@ cd my-node-app
 Initialize a new Node.js project with the following command:
 
 ```plaintext
-bashCopynpm init -y
+npm init -y
 ```
 
 This command generates a **package.json** file with default values.
@@ -151,7 +151,7 @@ This GitHub Actions workflow does the following:
 Add the new GitHub Actions workflow to your repository:
 
 ```plaintext
-bashCopygit add .github/workflows/ci-cd.yml
+git add .github/workflows/ci-cd.yml
 git commit -m "Add GitHub Actions CI/CD workflow"
 git push
 ```
