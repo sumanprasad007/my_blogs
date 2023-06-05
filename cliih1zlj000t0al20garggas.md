@@ -72,7 +72,7 @@ To get started with Terraform, follow these steps:
 
 ```plaintext
 provider "aws" {
-  region = "us-west-2"
+  region = "us-west-1"
 }
 
 resource "aws_instance" "example" {
@@ -80,7 +80,7 @@ resource "aws_instance" "example" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "example-instance"
+    Name = "my-ec2-instance"
   }
 }
 ```
