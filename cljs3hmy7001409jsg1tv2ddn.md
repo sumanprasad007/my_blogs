@@ -1,5 +1,5 @@
 ---
-title: "🎥 Check out my latest YouTube video! 🎥"
+title: "🎥 Check out my latest YouTube video!"
 datePublished: Fri Jul 07 2023 04:47:05 GMT+0000 (Coordinated Universal Time)
 cuid: cljs3hmy7001409jsg1tv2ddn
 slug: check-out-my-latest-youtube-video
