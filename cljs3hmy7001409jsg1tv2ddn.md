@@ -3,6 +3,7 @@ title: "🎥 Check out my latest YouTube video! 🎥"
 datePublished: Fri Jul 07 2023 04:47:05 GMT+0000 (Coordinated Universal Time)
 cuid: cljs3hmy7001409jsg1tv2ddn
 slug: check-out-my-latest-youtube-video
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688705250163/cdb6e388-4767-440b-97de-923db9be884b.png
 tags: software-development, aws, developer, devops, beginners
 
 ---
