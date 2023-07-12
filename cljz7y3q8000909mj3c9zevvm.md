@@ -117,6 +117,8 @@ ansible dev-server -a "uptime"
 
 This command will display the uptime information for the servers in the `dev-server` group.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689136696343/00077511-5b9f-4ecc-934f-c523c79e68bb.png align="center")
+
 ## **🔍 Step 6: Writing Ansible Playbooks**
 
 Ansible playbooks are written in YAML format and define the desired state of the systems. Let's create a playbook to perform system configuration tasks. Create a file named `commands_play.yml`:
@@ -143,6 +145,8 @@ Inside the file, add the following playbook content:
 
 This playbook executes two tasks: displaying the current date and checking the server uptime.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689136718017/8c6f7415-2248-4ed3-b80f-ba3109293018.png align="center")
+
 ## **🔍 Step 7: Running Ansible Playbooks**
 
 To run the playbook and execute the defined tasks, use the following command:
@@ -152,6 +156,8 @@ ansible-playbook commands_play.yml -v
 ```
 
 This command will execute the tasks defined in the playbook on the servers in the `dev-server` group.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689136729973/73ffe43f-3293-4404-80f5-25d52ed006ec.png align="center")
 
 ## **🔍 Step 8: Installing Nginx on Servers**
 
@@ -175,6 +181,8 @@ This playbook installs the latest version of Nginx on the servers in the `dev-se
 ## **🔍 Step 9: Deploying Web Pages with Ansible**
 
 Ansible can also deploy files to remote servers. To deploy an `index.html` web page to a server, modify the playbook as follows:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689136765889/a6917632-b288-4ce3-a672-337a7e1d1f20.png align="center")
 
 ```plaintext
 ---
@@ -201,6 +209,8 @@ Ansible can also deploy files to remote servers. To deploy an `index.html` web p
 ```
 
 This playbook installs Nginx, starts the service, and deploys the `index.html` file to the specified location.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689136772094/0f6f0188-2dbb-44bf-8286-32769063ce89.png align="center")
 
 ### 💥 Benefits:
 
