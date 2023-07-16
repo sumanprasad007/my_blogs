@@ -4,7 +4,7 @@ datePublished: Sun Jul 16 2023 04:56:14 GMT+0000 (Coordinated Universal Time)
 cuid: clk4ys2ze000109mh1zdd1w2w
 slug: wonderful-live-with-trainwithshubham-how-to-get-started-with-technical-blogging-with-hands-tips
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689483111918/4ab0d997-55e4-452e-9f6c-614b4b0f1cfa.jpeg
-tags: developer, devops, beginners, hashnode, tws
+tags: devops, beginners, hashnode, 90daysofdevops, tws
 
 ---
 
