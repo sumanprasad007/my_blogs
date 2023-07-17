@@ -22,7 +22,7 @@ Objective: 🎯 Deploy a .NET 6 application in AWS Elastic Beanstalk from Visual
 
 ✔️ An AWS account and basic knowledge of AWS Elastic Beanstalk and .NET 6 Web Applications.
 
-Step 1: Build a .NET 6 Web Application with Visual Studio
+### 🔄 Step 1: Build a .NET 6 Web Application with Visual Studio
 
 If you don't have a .NET 6 based web app already, you can create one by following these steps:
 
@@ -70,8 +70,7 @@ If you don't have a .NET 6 based web app already, you can create one by followin
     
 10. Wait for the deployment process to complete. Once the environment status is healthy, your deployment is successful.
     
-
-1. Verify the environment status from the AWS console under the "Elastic Beanstalk" service and click on "Environment."
+11. Verify the environment status from the AWS console under the "Elastic Beanstalk" service and click on "Environment."
     
 
 ### 🔄 Step 3: Test Your Application Congratulations!
