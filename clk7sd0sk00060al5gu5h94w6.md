@@ -75,7 +75,7 @@ We hope this guide has provided you with valuable insights and practical steps f
 
 ### **🔍 Image Credit:**
 
-[**https://www.linkedin.com/pulse/cloud-mantra-logic-apps-tarun-sharma**](https://www.linkedin.com/pulse/cloud-mantra-logic-apps-tarun-sharma)
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.knoldus.com%2Fhow-to-set-up-azure-internal-load-balancer%2F&psig=AOvVaw2hx25Zmo0JxlEVcISYJX9d&ust=1689739997833000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKip7JSyl4ADFQAAAAAdAAAAABBh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.knoldus.com%2Fhow-to-set-up-azure-internal-load-balancer%2F&psig=AOvVaw2hx25Zmo0JxlEVcISYJX9d&ust=1689739997833000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKip7JSyl4ADFQAAAAAdAAAAABBh)
 
 ### **🔍 Checkout GitHub Repository for projects:**
 
