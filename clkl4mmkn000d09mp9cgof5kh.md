@@ -18,12 +18,10 @@ This is part 2 of Terraform Secnario-based Interview Questions this blog aims to
 
 Answer: To create multiple AWS EC2 instances dynamically based on a list of instance types, you can use Terraform's dynamic blocks and for\_each feature. For instance, suppose you have a list of instance types like \["t2.micro", "t2.small", "t2.medium"\]:
 
-```plaintext
-variable "instance_types" {
-  type    = list(string)
-  default = ["t2.micro", "t2.small", "t2.medium"]
-}
+* In the example you provided, the `for_each` loop in the `aws_instance` resource block enables dynamic resource creation based on the values provided in the `instance_types` variable.
+    
 
+```plaintext
 resource "aws_instance" "ec2_instances" {
   for_each = toset(var.instance_types)
 
@@ -32,7 +30,7 @@ resource "aws_instance" "ec2_instances" {
 }
 ```
 
-When you run Terraform apply, it will create three EC2 instances with the specified instance types.
+By combining the use of `for_each` with a variable containing a list of instance types, Terraform will create multiple EC2 instances, each with a different instance type based on the provided list. Whether you set the variable values directly in the `.tfvars` file or through command-line flags, Terraform will process the input and provision the resources accordingly. When you run Terraform apply, it will create three EC2 instances with the specified instance types.
 
 ### Scenario 6: Multi-Cloud Provisioning
 
