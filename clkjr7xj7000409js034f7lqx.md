@@ -33,10 +33,10 @@ a. Describe HCL (HashiCorp Configuration Language) and its role in Terraform.
 Answer: HCL is a human-readable configuration language used by Terraform to define infrastructure resources and their configurations. It allows users to express complex infrastructure setups in a concise and clear manner. For example, a simple HCL snippet to define an AWS S3 bucket resource would look like:
 
 1. ```plaintext
-     resource "aws_s3_bucket" "example_bucket" {
-       bucket = "example-bucket"
-       acl    = "private"
-     }
+      resource "aws_s3_bucket" "example_bucket" {
+        bucket = "example-bucket"
+        acl    = "private"
+      }
     ```
     
 
@@ -163,9 +163,11 @@ Answer: Terraform state is essential for maintaining a mapping between the resou
 
 b. Compare and contrast local and remote backends in Terraform.
 
-Answer: Local backend stores the state file on the local file system of the machine running Terraform. This approach is suitable for solo projects or small teams. On the other hand, remote backends store the state file in a shared location, such as AWS S3 or HashiCorp Consul. This enables collaboration among team members and ensures state locking to prevent concurrent updates.
+Answer: Local backend stores the state file on the local file system of the machine running Terraform. This approach is suitable for solo projects or small teams. On the other hand, remote backends store the state file in a shared location, such as AWS S3 or HashiCorp Cloud. This enables collaboration among team members and ensures state locking to prevent concurrent updates.
 
-c. How can you migrate Terraform state from local to remote backend? Answer: To migrate Terraform state from local to remote backend, you can follow these steps:
+c. How can you migrate Terraform state from local to remote backend?
+
+Answer: To migrate Terraform state from local to remote backend, you can follow these steps:
 
 1. Set up the remote backend and configure it with access credentials.
     
