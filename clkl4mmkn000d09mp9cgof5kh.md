@@ -10,7 +10,7 @@ tags: interview, developer, devops, beginners, 90daysofdevops
 
 # **📍 Introduction:**
 
-This is part 2 of Terraform Secnario-based Interview Questions this blog aims to provide you with a comprehensive collection of scenario-based challenges to help you excel in your Terraform interviews. Readout part 1 of it:
+This is part 2 of Terraform Secnario-based Interview Questions this blog aims to provide you with a comprehensive collection of Scenario-based challenges to help you excel in your Terraform interviews. Readout part 1 of it:
 
 %[https://blog.prasadsuman.me/terraform-interview-questions-a-guide-for-devops-engineers] 
 
