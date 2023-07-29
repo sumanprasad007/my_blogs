@@ -8,7 +8,7 @@ tags: linux, aws, devops, beginners, 90daysofdevops
 
 ---
 
-# **📍***Introduction* 🌟
+# **📍***Introduction*🌟
 
 Welcome to this captivating live session on LinkedIn, where we embark on an inspiring and heartfelt journey with a fresh graduate from a Tier 3 college, as they take their first steps into the exciting world of DevOps. This live session, recorded on 15th April 2023, offers a unique glimpse into the experiences, challenges, and triumphs of someone venturing into the rapidly growing and dynamic field of DevOps.
 
