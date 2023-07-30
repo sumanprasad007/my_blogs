@@ -1,14 +1,14 @@
 ---
-title: "Celebrating🎉 10 K + LinkedIn Followers and a Journey of Learning and Sharing❤"
+title: "Celebrating🎉 10K + LinkedIn Followers and a Journey of Learning and Sharing❤"
 datePublished: Sun Jul 30 2023 03:45:09 GMT+0000 (Coordinated Universal Time)
 cuid: clkowelkw000209mh0hww9aht
-slug: celebrating-10-k-linkedin-followers-and-a-journey-of-learning-and-sharing
+slug: celebrating-10k-linkedin-followers-and-a-journey-of-learning-and-sharing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690656196859/4406510b-6447-4582-a763-4e55605dd69d.png
 tags: linux, aws, beginner, devops, 90daysofdevops
 
 ---
 
-# **📍***Introduction* 📝🌠
+# **📍 Introduction**📝🌠
 
 As I sit down to pen this blog, my heart is brimming with joy and gratitude. Today, I want to express my heartfelt appreciation to each and every one of you, my amazing LinkedIn connections, for being a part of my journey. Together, we have reached a significant milestone of 10,000 followers, and I couldn't be more excited and thankful for this incredible achievement. 🙏🎉
 
