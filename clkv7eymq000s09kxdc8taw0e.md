@@ -119,6 +119,8 @@ To schedule the script to run at regular intervals using Cron:
 
 Replace `/path/to/monitor_process.sh` with the actual path to the script, and `<process_name>` with the process you want to monitor.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691070653056/5c5c7ce5-ab97-48ba-8734-08589c04b12d.png align="center")
+
 **Bonus: Implementing Notification**
 
 To implement a notification mechanism, you can use the `mail` command to send an email notification when the script is unable to restart the process after the specified number of attempts. Before using the `mail` command, make sure your Linux system is configured to send emails. Additionally, you can consider using third-party APIs to send Slack messages or other notification services.
