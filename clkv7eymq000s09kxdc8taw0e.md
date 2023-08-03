@@ -95,6 +95,14 @@ fi
     
 3. To monitor a specific process, run the script with the process name as an argument: `./monitor_process.sh <process_name>`. Replace `<process_name>` with the name of the process you want to monitor.
     
+4. E.g.:
+    
+    `./monitor_process.sh nignx`
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691070306448/9faf7f07-e0f1-4d0f-9833-8b439c738de8.png align="center")
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691070312700/c540cb99-90de-4493-bef5-4c03bd1e8e41.png align="center")
+    
 
 **Scheduling with Cron:**
 
