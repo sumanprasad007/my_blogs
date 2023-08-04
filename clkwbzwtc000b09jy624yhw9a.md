@@ -1,8 +1,8 @@
 ---
-title: "Day 5: Monitor Your System Metrics with a Bash Script!"
+title: "Day 4 - Part II: Monitor Your System Metrics with a Bash Script!"
 datePublished: Fri Aug 04 2023 08:36:01 GMT+0000 (Coordinated Universal Time)
 cuid: clkwbzwtc000b09jy624yhw9a
-slug: day-5-monitor-your-system-metrics-with-a-bash-script
+slug: day-4-part-ii-monitor-your-system-metrics-with-a-bash-script
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691089402754/29fa1274-be91-42b7-ad16-c443d2d1cb74.png
 tags: linux, developer, devops, shell, 90daysofdevops
 
