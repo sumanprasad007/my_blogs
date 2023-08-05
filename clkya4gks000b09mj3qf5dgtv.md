@@ -14,7 +14,11 @@ Are you ready for a thrilling adventure into the world of Bash scripting? In thi
 
 ## **🎭 The Mysterious Script Challenge**
 
-Imagine stumbling upon a mysterious Bash script with no comments or explanations—just a series of commands. Your mission, should you choose to accept it, is to decode this script, figure out its objective, and improve it by adding comments for clarity. It's a fun challenge that will test your scripting skills and ignite your creativity! 💪
+Imagine stumbling upon a mysterious Bash script with no comments or explanations—just a series of commands. Your mission, should you choose to accept it, is to decode this script, figure out its objective, and improve it by adding comments for clarity. It's a fun challenge that will test your scripting skills and ignite your creativity!
+
+### 📢 Provided Mysterious Bash Script Challenge:
+
+%[https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/main/Challenges/Day_6/broken_myst/mystery.sh] 
 
 ## **🎯 The Mysterious Objective**
 
