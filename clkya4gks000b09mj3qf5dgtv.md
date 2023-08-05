@@ -1,8 +1,8 @@
 ---
-title: "Unraveling the Mystery: A Fun-Filled Journey through the Mysterious Bash Script 🕵️‍♂️"
+title: "Day 6 - Unraveling the Mysterious Bash Script 🕵️‍♂️"
 datePublished: Sat Aug 05 2023 17:19:06 GMT+0000 (Coordinated Universal Time)
 cuid: clkya4gks000b09mj3qf5dgtv
-slug: unraveling-the-mystery-a-fun-filled-journey-through-the-mysterious-bash-script
+slug: day-6-unraveling-the-mysterious-bash-script
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691255854594/ccfc51b2-ce6e-4747-8899-0c0268648cfe.gif
 tags: linux, developer, devops, shell, 90daysofdevops
 
