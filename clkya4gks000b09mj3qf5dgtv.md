@@ -147,19 +147,11 @@ Let's break down the script and understand each part step-by-step:
     * Finally, the mysterious output is displayed, guiding us to check the result in the specified output file.
         
 
-## **💡 The Improved Script**
-
-Let's unveil the mystery by improving the script with detailed comments and explanations for each step. We'll make it easier for anyone to understand and appreciate the magic within! 🌈
-
-```plaintext
-[The improved script will be presented here with added comments and explanations]
-```
-
 ## **🎉 Conclusion**
 
-Congratulations, brave script explorer! You've successfully unraveled the mystery behind the Bash script and improved it with your insightful comments and explanations. Scripting is all about creativity and problem-solving, and this challenge has certainly put your skills to the test! 🏆
+Congratulations, brave script explorer! You've successfully unravelled the mystery behind the Bash script and improved it with your insightful comments and explanations. Scripting is all about creativity and problem-solving, and this challenge has certainly put your skills to the test! 🏆
 
-We hope you had fun on this adventure and that it sparked your curiosity for more Bash scripting explorations. Keep practicing and experimenting with scripts, and who knows what other thrilling mysteries you might solve in the future! Happy scripting! 😄🚀
+We hope you had fun on this adventure and that it sparked your curiosity for more Bash scripting explorations. Keep practising and experimenting with scripts, and who knows what other thrilling mysteries you might solve in the future! Happy scripting! 😄🚀
 
 ### **🔍 Checkout GitHub Repository for projects:**
 
