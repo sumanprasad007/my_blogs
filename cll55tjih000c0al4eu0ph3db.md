@@ -8,7 +8,7 @@ tags: linux, kubernetes, developer, devops, 90daysofdevops
 
 ---
 
-## Introduction:
+## 📍 Introduction:
 
 In the world of Kubernetes, managing and controlling traffic between services is crucial. 🌐 Ingress controllers play a vital role in achieving this by acting as the entry point for external traffic to reach services within the cluster. In this guide, we'll walk you through the process of installing and configuring an Ingress controller on a Minikube cluster, focusing on setting up rules for the Kubernetes Dashboard. By the end of this tutorial, you'll have a clear understanding of how to leverage Ingress to efficiently manage traffic in your Kubernetes environment.
 
