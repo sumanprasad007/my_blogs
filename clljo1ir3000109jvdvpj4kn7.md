@@ -166,7 +166,7 @@ Congratulations! You've successfully set up a Kubernetes cluster using Kubeadm o
 
 **🔗** [**github.com/sumanprasad007**](http://github.com/sumanprasad007)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692084734119/21eed98f-95b4-42bd-a1d6-62a167ad162a.png?auto=compress,format&format=webp&auto=compress,format&format=webp&auto=compress,format&format=webp align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692607442282/98c6c100-886d-4894-80bc-db5df0141100.png align="center")
 
 ### **🔍 Check out my YouTube channel - Prasad Suman Mohan:**
 
