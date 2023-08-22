@@ -145,4 +145,18 @@ spec:
 
 In this example, the StatefulSet ensures that each pod in the MongoDB cluster maintains a stable network identity and can persist data across rescheduling.
 
+# **📍 Conclusion:**
+
 In conclusion, Deployments 🚀 and StatefulSets 🏰 are powerful controllers in Kubernetes, each with its unique characteristics and use cases. Understanding when to use them can greatly improve the reliability and scalability of your containerized applications in a Kubernetes cluster.
+
+### **🔍 Checkout GitHub Repository for projects:**
+
+**🔗** [**github.com/sumanprasad007**](http://github.com/sumanprasad007)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692607442282/98c6c100-886d-4894-80bc-db5df0141100.png?auto=compress,format&format=webp&auto=compress,format&format=webp align="left")
+
+### **🔍 Check out my YouTube channel - Prasad Suman Mohan:**
+
+🔗 [**youtube.com/@sumanprasad007**](http://youtube.com/@sumanprasad007)
+
+%[https://youtu.be/oVJoN5Zc3Kw]
