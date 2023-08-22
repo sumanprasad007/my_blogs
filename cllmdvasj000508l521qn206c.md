@@ -8,6 +8,8 @@ tags: aws, kubernetes, developer, devops, 90daysofdevops
 
 ---
 
+# **📍 Introduction:**
+
 Kubernetes offers a variety of controllers to manage containerized applications, and two of the most commonly used ones are Deployments 🚀 and StatefulSets 🏰. In this blog post, we will explore the differences between these two controllers, understand when to use each of them, and see how they address specific challenges. We'll also provide code snippets and real-world examples to illustrate these concepts.
 
 ## **Deployments: Scaling and Updating Applications**
