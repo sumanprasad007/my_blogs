@@ -8,12 +8,11 @@ tags: aws, kubernetes, developer, devops, 90daysofdevops
 
 ---
 
-# **  
-Introduction**
+# **📍**Introduction
 
 Welcome to the world of Kubernetes administration! In this blog post, we're diving into the essential tools and techniques for efficient management of your Kubernetes clusters using the `kubectl` command-line tool. Whether you're new to Kubernetes or looking to enhance your skills, we'll provide you with tips to boost your productivity, navigate resources effectively, and streamline your workflows.
 
-## **Enable Command Completions**
+## **✅ Enable Command Completions**
 
 When working with `kubectl`, one of the first steps to enhance your productivity is to enable command completions. Command completions allow you to quickly and accurately enter lengthy commands, reducing typos and saving time. Here's how to enable them:
 
@@ -28,7 +27,7 @@ Now, you can easily complete commands by pressing the "Tab" key, and even list a
 
 The `kubectl get` command is your Swiss Army knife for viewing resources in a Kubernetes cluster. Let's explore some handy `kubectl get` tips:
 
-### **Resource Short Names**
+### **✅ Resource Short Names**
 
 You don't always need to type out the full resource names. Use resource short names to save time. For instance, use `po` for pods and `svc` for services.
 
@@ -37,7 +36,7 @@ kubectl get po # List pods
 kubectl get svc # List services
 ```
 
-### **Filtering and Sorting**
+### **✅ Filtering and Sorting**
 
 * Filter resources by namespace: Specify the namespace with `-n` or `--namespace`.
     
@@ -60,7 +59,7 @@ kubectl get po -l <label-key>=<label-value>
 kubectl get po --sort-by=.metadata.creationTimestamp
 ```
 
-### **Customize Output**
+### **✅ Customize Output**
 
 * Choose output formats: Get resources in various formats, like JSON or YAML, using `-o` or `--output`.
     
@@ -77,7 +76,7 @@ kubectl get svc -o yaml
 kubectl get po -o wide
 ```
 
-### **Explain Resources**
+### **✅ Explain Resources**
 
 Need to understand resource fields and their purposes? Use `kubectl explain`. It's your documentation on the command line.
 
@@ -89,7 +88,7 @@ kubectl explain pod.spec.containers.resources
 
 Creating resources in Kubernetes is a common task. Here are ways to streamline resource creation:
 
-### **Manifest Files**
+### **✅ Manifest Files**
 
 Version control your configurations and practice configuration-as-code by creating manifest files. Apply them using `kubectl apply -f <file>`.
 
@@ -98,7 +97,7 @@ kubectl apply -f my-pod.yaml
 kubectl apply -f my-service.yaml
 ```
 
-### **Subcommands and Dry Run**
+### **✅ Subcommands and Dry Run**
 
 Use subcommands like `kubectl run` and `kubectl create` to generate manifest files with predefined settings. Combine them with `--dry-run` and `-o yaml` to output manifest files.
 
@@ -106,7 +105,7 @@ Use subcommands like `kubectl run` and `kubectl create` to generate manifest fil
 kubectl run my-nginx --image=nginx --dry-run=client -o yaml
 ```
 
-### **Namespace Assignment**
+### **✅ Namespace Assignment**
 
 Modify generated manifest files to assign resources to specific namespaces. Edit the `metadata.namespace` field to control resource placement.
 
@@ -118,7 +117,7 @@ metadata:
   namespace: my-namespace
 ```
 
-## **Cleaning Up Resources**
+## **✅ Cleaning Up Resources**
 
 To remove resources, use `kubectl delete`. You can specify resources by filename or directory.
 
@@ -127,7 +126,7 @@ kubectl delete -f my-pod.yaml
 kubectl delete -f my-resources-directory/
 ```
 
-## **Conclusion**
+# **📍 Conclusion**
 
 In this blog post, we've covered essential `kubectl` tips and techniques to help you manage your Kubernetes clusters efficiently. These skills are not only valuable for day-to-day administration but are also crucial for Kubernetes certification exams, where internet searches aren't allowed.
 
@@ -135,7 +134,7 @@ With command completions, mastery of `kubectl get`, efficient resource creation,
 
 Remember, practice makes perfect, so don't hesitate to experiment with these techniques in your Kubernetes environment. Happy clustering! 🚀
 
-## **Additional Resources**
+## **✅ Additional Resources**
 
 * [**JSONPath Support in Kubernetes**](https://kubernetes.io/docs/reference/kubectl/jsonpath/): Learn more about JSONPath expressions in Kubernetes.
     
