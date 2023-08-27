@@ -12,7 +12,7 @@ tags: aws, kubernetes, developer, devops, 90daysofdevops
 
 Container orchestration with Kubernetes has become a standard for deploying and managing applications efficiently. In this detailed guide, we will walk you through the process of deploying a Reddit clone web application onto a Kubernetes cluster hosted on AWS. By following these steps, you will not only learn the deployment process but also gain insights into the power of Kubernetes for managing containerized applications.
 
-**Step 1: Provision AWS Instances 🌐**
+### **Step 1: Provision AWS Instances 🌐**
 
 Begin by accessing the AWS console and creating two instances with specific configurations:
 
@@ -25,7 +25,7 @@ Begin by accessing the AWS console and creating two instances with specific conf
 
 Ensure that you name these instances accordingly for easy reference.
 
-**Step 2: Clone the Code📂**
+### **Step 2: Clone the Code📂**
 
 📦 On the machine, clone the codebase of your Reddit clone web application.
 
@@ -33,7 +33,7 @@ Link: [https://github.com/sumanprasad007/reddit-clone-deployed-on-kubernetes-clu
 
 %[https://github.com/sumanprasad007/reddit-clone-deployed-on-kubernetes-cluster.git] 
 
-**Step 3: Prerequisites 🛠️**
+### **Step 3: Prerequisites 🛠️**
 
 **On Deployment Server**:
 
@@ -58,7 +58,7 @@ Link: [https://github.com/sumanprasad007/reddit-clone-deployed-on-kubernetes-clu
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692641481571/011874b4-eb52-41fe-888a-6cfecdad91be.png align="center")
 
-**Step 4: Write a Dockerfile for the Project 🐳**
+### **Step 4: Write a Dockerfile for the Project 🐳**
 
 Create a Dockerfile for your Reddit clone project with the following content:
 
@@ -76,7 +76,7 @@ EXPOSE 3000
 CMD [“npm”,”run”,”dev”]
 ```
 
-**Step 5: Build and Push Docker Image 🚀**
+### **Step 5: Build and Push Docker Image 🚀**
 
 Build the Docker image from the Dockerfile using the following command:
 
@@ -94,25 +94,25 @@ docker login
 docker push sumanprasad007/reddit-clone
 ```
 
-**Step 6: Connect to Deployment Server 🖥️**
+### **Step 6: Connect to Deployment Server 🖥️**
 
 SSH into the Deployment Server.
 
-**Step 7: Install Minikube and Kubectl**
+### **Step 7: Install Minikube and Kubectl**
 
 Ensure Minikube and Kubectl are installed on the Deployment Server.
 
-**Step 8: Deploy Docker Image 🚢**
+### **Step 8: Deploy Docker Image 🚢**
 
 Now, it's time to deploy the Docker image from Docker Hub onto your Kubernetes cluster.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692641677775/008c0f4a-6e7c-402f-9935-c10fd0276b27.png align="center")
 
-**Step 9: Create a Kubernetes Folder 📁**
+### **Step 9: Create a Kubernetes Folder 📁**
 
 Create a folder named "K8s" on the Deployment Server.
 
-**Step 10: Create a Deployment YAML File 📝**
+### **Step 10: Create a Deployment YAML File 📝**
 
 Inside the "K8s" folder, create a file named "Deployment.yml" and add the following content:
 
@@ -142,7 +142,7 @@ spec:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692641736372/772cce91-2dfb-4bad-a628-17d1825f35c5.png align="center")
 
-**Step 11: Apply the Deployment File 📜**
+### **Step 11: Apply the Deployment File 📜**
 
 Apply the Deployment file to create pods:
 
@@ -150,7 +150,7 @@ Apply the Deployment file to create pods:
 kubectl apply -f Deployment.yml
 ```
 
-**Step 12: Verify Deployments 🧐**
+### **Step 12: Verify Deployments 🧐**
 
 To ensure that the deployments are successful, use the following command:
 
@@ -160,11 +160,11 @@ kubectl get deployments
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692641741911/bbea78cd-6bc3-4274-9f1f-11a520d653ea.png align="center")
 
-**Step 13: Create a Kubernetes Service 🌐**
+### **Step 13: Create a Kubernetes Service 🌐**
 
 Now, you need to create a Service to provide an IP address for your application within the cluster.
 
-**Step 14: Create a Service YAML File 📝**
+### **Step 14: Create a Service YAML File 📝**
 
 Inside the "K8s" folder, create a file named "Service.yml" and add the following content:
 
@@ -185,7 +185,7 @@ spec:
     app: reddit-clone
 ```
 
-**Step 15: Apply the Service File 📜**
+### **Step 15: Apply the Service File 📜**
 
 Apply the Service file to create a service:
 
@@ -193,7 +193,7 @@ Apply the Service file to create a service:
 kubectl apply -f Service.yml
 ```
 
-**Step 16: Check the Service 🌐**
+### **Step 16: Check the Service 🌐**
 
 To verify that the service is created successfully, run:
 
@@ -203,7 +203,7 @@ kubectl get services
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692641766429/c66262dc-3239-46a8-b2c5-d76603d44d4d.png align="center")
 
-**Step 17: Access the Application 🚀**
+### **Step 17: Access the Application 🚀**
 
 You can now access your application by visiting the URL provided by Minikube:
 
@@ -211,11 +211,11 @@ You can now access your application by visiting the URL provided by Minikube:
 minikube service reddit-clone-service — url
 ```
 
-**Step 18: Expose the Application to the Internet 🌍**
+### **Step 18: Expose the Application to the Internet 🌍**
 
 To make your application accessible from the internet, you'll need to configure port forwarding.
 
-**Step 19: Port Forwarding 🔄**
+### **Step 19: Port Forwarding 🔄**
 
 Run the following command for port forwarding:
 
@@ -225,7 +225,7 @@ kubectl port-forward svc/reddit-clone-service 3000:3000
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692641830306/ce46d285-fd2e-4dc7-89ce-9755dbc11d1d.png align="center")
 
-**Step 20: Access Your Live Reddit Clone 🌐**
+### **Step 20: Access Your Live Reddit Clone 🌐**
 
 Visit your Reddit Clone web app at the provided domain or IP address, and it should now be accessible to the world.
 
