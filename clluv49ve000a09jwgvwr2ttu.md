@@ -1,8 +1,8 @@
 ---
-title: "👨‍💻🐳 Running Django app using Helm Charts inside Kubernetes Cluster"
+title: "👨‍💻🐳 Running Node app using Helm Charts inside Kubernetes Cluster"
 datePublished: Mon Aug 28 2023 12:35:27 GMT+0000 (Coordinated Universal Time)
 cuid: clluv49ve000a09jwgvwr2ttu
-slug: running-django-app-using-helm-charts-inside-kubernetes-cluster
+slug: running-node-app-using-helm-charts-inside-kubernetes-cluster
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693224799030/545aa03f-364d-44b6-b6f7-4cda7acbf5d8.png
 tags: aws, kubernetes, devops, helm, 90daysofdevops
 
@@ -40,11 +40,11 @@ Helm is a valuable tool in the DevOps toolbox, streamlining Kubernetes deploymen
 * Helm: Helm should be installed on your local machine.
     
 * ```plaintext
-    curl https://baltocdn.com/helm/signing.asc | gpg --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null
-    sudo apt-get install apt-transport-https --yes
-    echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/helm.gpg] https://baltocdn.com/helm/stable/debian/ all main" | sudo tee /etc/apt/sources.list.d/helm-stable-debian.list
-    sudo apt-get update
-    sudo apt-get install helm
+      curl https://baltocdn.com/helm/signing.asc | gpg --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null
+      sudo apt-get install apt-transport-https --yes
+      echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/helm.gpg] https://baltocdn.com/helm/stable/debian/ all main" | sudo tee /etc/apt/sources.list.d/helm-stable-debian.list
+      sudo apt-get update
+      sudo apt-get install helm
     ```
     
 * Docker: You need Docker installed on your local machine for building and pushing Docker images.
@@ -55,7 +55,7 @@ Helm is a valuable tool in the DevOps toolbox, streamlining Kubernetes deploymen
 First, we need to create a Helm chart to define the deployment of our application. Open your terminal and run the following command to create a Helm chart named "node-app":
 
 ```plaintext
-helm create node-app
+helm create note-app
 ```
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693224122165/425b21eb-b404-4941-8c5b-af5db3a69f25.png align="center")
