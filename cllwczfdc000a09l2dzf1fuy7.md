@@ -51,6 +51,10 @@ DevOps tasks often involve replacing code snippets. Vi and Vim have you covered:
     
 * 🔄 **Replacing**: Replace text with `:s/old/new/g` for the current line or `:%s/old/new/g` for the entire file.
     
+* **Jump to Line Number**:
+    
+    * Use `:<line_number>` to jump to a specific line in the file (e.g., `:25` to go to line 25).
+        
 
 ## **💾 Saving and Exiting**
 
@@ -78,6 +82,61 @@ Unlock the power of Vi and Vim's Visual Mode for text manipulation:
 
 * ✏️ Enter Visual Mode with `v`, select text, and perform operations like yanking or deleting.
     
+
+## ➕ Some More **Tips:**
+
+* **Indent Multiple Lines**:
+    
+    * Select multiple lines in Visual Mode (`Shift + V`) and then press `>` to indent them right or `<` to indent them left.
+        
+* **Repeat Previous Change**:
+    
+    * The `.` (period) key repeats the last change you made. This is incredibly useful for applying the same action multiple times.
+        
+* **Replace Mode**:
+    
+    * Enter Replace Mode by pressing `R`. You can then type over the existing text, and it will replace characters as you type.
+        
+* **Quickly Navigate to Matching Parentheses**:
+    
+    * Place your cursor on a parenthesis, and press `%` to jump to its matching parenthesis.
+        
+* **Toggle Case**:
+    
+    * Select text in Visual Mode and press `~` to toggle the case (uppercase to lowercase and vice versa).
+        
+* **Copy to System Clipboard**:
+    
+    * On systems with clipboard support, you can copy selected text to the system clipboard with `"+y` (e.g., `"+yy` to copy a line).
+        
+* **Switch Case Sensitivity in Search**:
+    
+    * When searching with `/`, you can toggle case sensitivity with `\c` and `\C`. For example, `/search\c` performs a case-insensitive search.
+        
+* **Repeat Last Search**:
+    
+    * Press `n` to repeat the last search forward or `N` to repeat it backward.
+        
+* **Navigate by Word**:
+    
+    * Move between words quickly by pressing `w` to move forward or `b` to move backward.
+        
+* **Delete to End of Line**:
+    
+    * In Normal Mode, use `D` to delete from the cursor position to the end of the line.
+        
+* **Execute Shell Commands**:
+    
+    * You can execute shell commands from within Vim by typing `:!` followed by the command (e.g., `:!ls` to list files).
+        
+* **Navigate Undo Tree**:
+    
+    * Use `g-` and `g+` in Normal Mode to navigate backward and forward through the undo tree.
+        
+* **Swap Two Words**:
+    
+    * In Normal Mode, place your cursor on the first word and type `daw` to delete the word and `p` to paste it after the cursor position.
+        
 
 ## **🤩 Conclusion**
 
