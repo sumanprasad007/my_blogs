@@ -10,7 +10,7 @@ tags: linux, kubernetes, developer, devops, 90daysofdevops
 
 # **Introduction:**
 
-Are you a DevOps enthusiast or a Linux Enthusiast, spending countless hours crafting and editing scripts in Vi or Vim? Well, fret not! You're in for a treat, as we've compiled a treasure trove of essential commands and tips that will supercharge your productivity and save you loads of time.
+Are you a DevOps or a Linux Enthusiast, spending countless hours crafting and editing scripts in Vi or Vim? Well, fret not! You're in for a treat, as we've compiled a treasure trove of essential commands and tips that will supercharge your productivity and save you loads of time.
 
 ## **🌟 Vi and Vim: What's the Buzz About?**
 
