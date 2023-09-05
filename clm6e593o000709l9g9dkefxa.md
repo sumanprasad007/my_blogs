@@ -50,6 +50,10 @@ In summary, application tracking is crucial for DevOps teams to ensure the relia
 
 So, whether you're managing a web application, a microservices-based architecture, or serverless functions, implementing robust application tracking practices is a must for staying ahead in the DevOps game. 🎯🛠️
 
+### Image Credit:
+
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40akashjoffical08%2Fimplement-distributed-tracing-with-jaeger-opentelemetry-on-kubernetes-3e35cb77b536&psig=AOvVaw3H7sDLcmr8J4kD3Tb1DT86&ust=1694009265248000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjD6LXSk4EDFQAAAAAdAAAAABAk](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40akashjoffical08%2Fimplement-distributed-tracing-with-jaeger-opentelemetry-on-kubernetes-3e35cb77b536&psig=AOvVaw3H7sDLcmr8J4kD3Tb1DT86&ust=1694009265248000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjD6LXSk4EDFQAAAAAdAAAAABAk)
+
 ### **🔍 Checkout GitHub Repository for projects:**
 
 **🔗** [https://linktr.ee/sumanprasad007](https://linktr.ee/sumanprasad007)
