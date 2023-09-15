@@ -159,3 +159,15 @@ Deployment strategies in Kubernetes are vital for managing applications effectiv
 Rolling updates and rollbacks provide a safety net, allowing you to deploy changes confidently and recover swiftly in case of issues.
 
 By mastering these strategies, you'll be well-equipped to deploy, scale, and manage your applications efficiently in the dynamic world of Kubernetes. 🚀
+
+### **🔍 Checkout my Portfolio:**
+
+**🔗** [**linktr.ee/sumanprasad007**](http://linktr.ee/sumanprasad007)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694802400360/9ee07ed1-6f39-47ae-8b9a-c950ec3501cc.png align="center")
+
+### **🔍 Check out my YouTube channel - Prasad Suman Mohan:**
+
+🔗 [**youtube.com/@sumanprasad007**](http://youtube.com/@sumanprasad007)
+
+%[https://youtu.be/rAYm2Go2TvY]
