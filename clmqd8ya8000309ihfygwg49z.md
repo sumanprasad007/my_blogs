@@ -10,7 +10,7 @@ tags: aws, web-development, devops, 90daysofdevops, trainwithshubham
 
 ## Introduction:
 
-Introduction: In the world of container orchestration, Kubernetes stands out as the go-to platform for deploying and managing containerized applications. However, ensuring that your applications are running smoothly within Kubernetes clusters can be a challenge. This is where Kubernetes probes come to the rescue! 🚀
+In the world of container orchestration, Kubernetes stands out as the go-to platform for deploying and managing containerized applications. However, ensuring that your applications are running smoothly within Kubernetes clusters can be a challenge. This is where Kubernetes probes come to the rescue! 🚀
 
 Why Do We Need Kubernetes Probes? Kubernetes probes are an essential part of managing application health within a Kubernetes environment. They are used to determine the state of an application and help Kubernetes make intelligent decisions about when to route traffic to a specific container or pod.
 
