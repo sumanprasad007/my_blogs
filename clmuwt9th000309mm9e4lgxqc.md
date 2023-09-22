@@ -3,7 +3,7 @@ title: "Creating an AWS EKS Cluster using AWS CLI🚀"
 datePublished: Fri Sep 22 2023 18:02:36 GMT+0000 (Coordinated Universal Time)
 cuid: clmuwt9th000309mm9e4lgxqc
 slug: creating-an-aws-eks-cluster-using-aws-cli
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695405714144/1bb5baf0-f62d-49b5-a5d0-a23a198751ea.gif
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695405894911/0bd1e726-2266-4edb-92a6-d37547174201.gif
 tags: aws, developer, devops, 90daysofdevops, trainwithshubham
 
 ---
