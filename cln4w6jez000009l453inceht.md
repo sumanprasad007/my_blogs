@@ -20,15 +20,29 @@ Ankit Baiyanpuria embodies discipline in its purest form. His commitment to a li
 
 ### **Key Takeaways from the Podcast**
 
-1. **Read Bhagvad Gita**: Ankit's recommendation to delve into the wisdom of the Bhagvad Gita is a profound one. This ancient scripture offers timeless guidance on life, duty, and spirituality. It serves as a compass for navigating the complexities of existence.
+1. ### **Read Bhagvad Gita**:
     
-2. **Prioritize Mental Health**: In a world that often emphasizes physical health, Ankit's reminder to prioritize mental health is invaluable. True success encompasses well-being at all levels, and nurturing one's mental state is a crucial aspect of that journey.
+
+Ankit's recommendation to delve into the wisdom of the Bhagvad Gita is a profound one. This ancient scripture offers timeless guidance on life, duty, and spirituality. It serves as a compass for navigating the complexities of existence.
+
+1. ### **Prioritize Mental Health**:
     
-3. **Success = Peace Amidst Struggles**: Ankit's definition of success resonates with the soul. It's not about the absence of challenges, but rather about finding peace amidst life's struggles. This outlook encourages us to embrace challenges as opportunities for growth.
+
+In a world that often emphasizes physical health, Ankit's reminder to prioritize mental health is invaluable. True success encompasses well-being at all levels, and nurturing one's mental state is a crucial aspect of that journey.
+
+1. ### **Success = Peace Amidst Struggles**:
     
-4. **Believe in a Higher Power**: Ankit's spiritual perspective reminds us that there's a greater force at play in our lives. Having faith in something bigger than ourselves can provide solace and guidance during uncertain times. Believe in the process and trust that the universe has a plan.
+
+Ankit's definition of success resonates with the soul. It's not about the absence of challenges, but rather about finding peace amidst life's struggles. This outlook encourages us to embrace challenges as opportunities for growth.
+
+1. ### **Believe in a Higher Power**:
     
-5. **Stamina and Endurance**: Ankit's emphasis on stamina and endurance, beyond just physical fitness, is a holistic approach to well-being. These qualities help us navigate life's marathons with grace and resilience.
+
+Ankit's spiritual perspective reminds us that there's a greater force at play in our lives. Having faith in something bigger than ourselves can provide solace and guidance during uncertain times. Believe in the process and trust that the universe has a plan.
+
+1. ### **Stamina and Endurance**:
+    
+    Ankit's emphasis on stamina and endurance, beyond just physical fitness, is a holistic approach to well-being. These qualities help us navigate life's marathons with grace and resilience.
     
 
 ### **Conclusion**
