@@ -8,11 +8,11 @@ tags: aws, devops, helm, 90daysofdevops, trainwithshubham
 
 ---
 
-**Introduction** 🚀
+## **Introduction** 🚀
 
 "Helm for Beginners" is a comprehensive course designed to introduce you to Helm, the Kubernetes package manager. This course covers a variety of essential topics, including Helm components, Helm charts, pipelines, conditionals, with blocks, ranges, named templates, chart hooks, and packaging and signing charts. In this guide, we'll explore each of these topics, provide real-life examples, and explain their significance in simplifying Kubernetes application deployment and management. Let's embark on this journey to unlock the potential of Helm!
 
-**Helm Components** 🏗️
+### **Helm Components** 🏗️
 
 *Understanding Helm components is crucial for effectively managing Kubernetes applications.*
 
@@ -21,7 +21,7 @@ tags: aws, devops, helm, 90daysofdevops, trainwithshubham
     * **Example**: Create a Helm chart for a web application with frontend and backend services.
         
 
-**Helm Charts** 📦
+### **Helm Charts** 📦
 
 *Helm charts are the building blocks of Kubernetes applications, enabling you to define, install, and upgrade applications.*
 
@@ -30,7 +30,7 @@ tags: aws, devops, helm, 90daysofdevops, trainwithshubham
     * **Example**: Use a pre-built Helm chart to launch WordPress and MySQL.
         
 
-**Pipelines** 🌊
+### **Pipelines** 🌊
 
 *Helm pipelines streamline the deployment process, allowing for automated and efficient application rollouts.*
 
@@ -39,7 +39,7 @@ tags: aws, devops, helm, 90daysofdevops, trainwithshubham
     * **Example**: Configure a Jenkins pipeline to build and deploy microservices using Helm.
         
 
-**Conditionals** 🧐
+### **Conditionals** 🧐
 
 *Conditional statements in Helm charts enable dynamic configuration based on user-defined conditions.*
 
@@ -48,7 +48,7 @@ tags: aws, devops, helm, 90daysofdevops, trainwithshubham
     * **Example**: Use Helm conditionals to specify different resources for each environment.
         
 
-**With Blocks** 🔧
+### **With Blocks** 🔧
 
 *With blocks simplify the Helm chart templating process by providing a convenient way to define variables.*
 
@@ -57,7 +57,7 @@ tags: aws, devops, helm, 90daysofdevops, trainwithshubham
     * **Example**: Use with blocks to allow users to specify custom application settings.
         
 
-**Ranges** 🎯
+### **Ranges** 🎯
 
 *Helm's range function is invaluable for iterating over lists and maps in templates.*
 
@@ -66,7 +66,7 @@ tags: aws, devops, helm, 90daysofdevops, trainwithshubham
     * **Example**: Use ranges to loop through a list of microservices and create corresponding resources.
         
 
-**Named Templates** ✍️
+### **Named Templates** ✍️
 
 *Named templates in Helm allow you to reuse and modularize Helm chart components.*
 
@@ -75,7 +75,7 @@ tags: aws, devops, helm, 90daysofdevops, trainwithshubham
     * **Example**: Create named templates for microservice pods, services, and deployments.
         
 
-**Chart Hooks** 🪝
+### **Chart Hooks** 🪝
 
 *Chart hooks provide lifecycle management for your Helm charts, enabling actions at specific points during installation and deletion.*
 
@@ -84,7 +84,7 @@ tags: aws, devops, helm, 90daysofdevops, trainwithshubham
     * **Example**: Use chart hooks to initialize a database on application deployment.
         
 
-**Packaging and Signing Charts** 📝
+### **Packaging and Signing Charts** 📝
 
 *Packaging and signing Helm charts are essential for distributing secure and reusable applications.*
 
@@ -93,7 +93,7 @@ tags: aws, devops, helm, 90daysofdevops, trainwithshubham
     * **Example**: Package your Helm chart and sign it with a digital signature.
         
 
-**Conclusion** 🎉
+## **Conclusion** 🎉
 
 The "Helm for Beginners" course equips you with the fundamental knowledge and skills needed to harness the power of Helm, Kubernetes' package manager. By mastering Helm components, Helm charts, pipelines, conditionals, with blocks, ranges, named templates, chart hooks, packaging, and signing charts, you're well-prepared to streamline Kubernetes application deployment, management, and sharing. These skills not only enhance your ability to work with Kubernetes but also open up opportunities for you to contribute to the Kubernetes ecosystem. Get ready to embark on a journey filled with simplified Kubernetes application management! 🌟
 
