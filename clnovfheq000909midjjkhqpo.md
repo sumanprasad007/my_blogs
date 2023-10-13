@@ -10,7 +10,7 @@ tags: aws, web-development, devops, 90daysofdevops, trainwithshubham
 
 ## **Introduction:**
 
-In the fast-evolving landscape of software development and system monitoring, staying on top of the latest tools and technologies is crucial. OpenTelemetry, Jaeger, and Prometheus are three powerful solutions that have gained significant attention for their role in tracing and alerting. They empower developers and DevOps professionals to gain deep insights into their applications' performance and troubleshoot issues effectively. In this blog, we'll explore these technologies and ask a pivotal question: "Have you ever used or heard of Tracing and Alerting using OpenTelemetry, Jaeger, and Prometheus in any of your projects? 🚀"
+In the fast-evolving landscape of software development and system monitoring, staying on top of the latest tools and technologies is crucial. OpenTelemetry, Jaeger, and Prometheus are three powerful solutions that have gained significant attention for their role in tracing and alerting. They empower developers and DevOps professionals to gain deep insights into their applications' performance and troubleshoot issues effectively. In this blog, we'll explore these technologies and ask a pivotal question: "Have you ever used or heard of Tracing and Alerting using OpenTelemetry, Jaeger, and Prometheus in any of your projects? 🚀
 
 ## **Tracing and Alerting with OpenTelemetry, Jaeger, and Prometheus:**
 
