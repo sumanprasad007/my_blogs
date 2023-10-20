@@ -3,7 +3,7 @@ title: "Unpacking the Power of Prometheus Summary Metrics"
 datePublished: Fri Oct 20 2023 14:37:36 GMT+0000 (Coordinated Universal Time)
 cuid: clnypti4r000809maeor7fwih
 slug: unpacking-the-power-of-prometheus-summary-metrics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697807724398/7a58aabe-a690-445f-b3fe-007c5468dbda.gif
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697814675109/1814b50f-b9a4-404a-a6fb-41a6328fdb90.gif
 tags: aws, kubernetes, devops, 90daysofdevops, trainwithshubham
 
 ---
