@@ -10,7 +10,7 @@ tags: aws, python3, devops, 90daysofdevops, trainwithshubham
 
 # Introduction:
 
-As a Senior Site Reliability Engineer (SRE), Boto3 is your secret weapon for managing AWS resources efficiently and ensuring robust authentication and authorization. In this guide, we'll dive into creating, managing, and deleting AWS resources, listing and describing them, and expertly handling authentication and authorization using IAM roles and policies with Boto3. 🚀
+As a DevOps & Site Reliability Engineer (SRE), Boto3 is your secret weapon for managing AWS resources efficiently and ensuring robust authentication and authorization. In this guide, we'll dive into creating, managing, and deleting AWS resources, listing and describing them, and expertly handling authentication and authorization using IAM roles and policies with Boto3. 🚀
 
 ## Working with AWS Resources 🏗️
 
