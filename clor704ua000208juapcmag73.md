@@ -3,6 +3,7 @@ title: "Bridging Boto3 and Infrastructure as Code (IaC) in AWS 🏗️"
 datePublished: Thu Nov 09 2023 12:56:12 GMT+0000 (Coordinated Universal Time)
 cuid: clor704ua000208juapcmag73
 slug: bridging-boto3-and-infrastructure-as-code-iac-in-aws
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699534842485/0f59401a-ed34-471e-9448-72312e4a3c5d.gif
 tags: aws, python, devops, 90daysofdevops, trainwithshubham
 
 ---
