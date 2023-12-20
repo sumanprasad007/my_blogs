@@ -16,6 +16,8 @@ Let's start with the basics. The "cloud" is not just fluffy white things in the 
 
 ### Introduction to AWS Global Infrastructure
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703045289211/b2618708-bf64-4a9d-9f52-4c02c1150626.png align="center")
+
 **AWS Regions: 🌎** AWS operates in multiple geographic regions worldwide. Each region consists of multiple Availability Zones (AZs), offering low-latency connectivity and redundancy. Understanding the global infrastructure is crucial for deploying applications with high availability and fault tolerance.
 
 ## Getting Started
