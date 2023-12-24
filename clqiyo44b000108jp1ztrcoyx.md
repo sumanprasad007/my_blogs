@@ -1,14 +1,14 @@
 ---
-title: "Day 6: Advanced EC2 Configurations and Enhancing Security 🔒🚀"
+title: "Day 5: Advanced EC2 Configurations and Enhancing Security 🔒🚀"
 datePublished: Sun Dec 24 2023 04:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clqiyo44b000108jp1ztrcoyx
-slug: day-6-advanced-ec2-configurations-and-enhancing-security
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703352897313/77b862ae-3e07-4d07-b3ce-696b40f8ab5f.gif
+slug: day-5-advanced-ec2-configurations-and-enhancing-security
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703415538900/ab83d063-1b30-43a6-9faa-00c303b6480e.gif
 tags: linux, aws, technology, python, web-development, kubernetes, developer, devops, aws-lambda, technical-writing-1, aws-certified-solutions-architect-associate, 90daysofdevops, ansible-playbook, trainwithshubham
 
 ---
 
-Welcome back to Day 6 of our AWS Solutions Architect journey! Today, we're diving deeper into Amazon EC2, exploring advanced configurations, and enhancing security for your instances. Let's uncover the power of Elastic Load Balancing and understand crucial security considerations! 👩‍💻👨‍💻
+Welcome back to Day 5 of our AWS Solutions Architect journey! Today, we're diving deeper into Amazon EC2, exploring advanced configurations, and enhancing security for your instances. Let's uncover the power of Elastic Load Balancing and understand crucial security considerations! 👩‍💻👨‍💻
 
 ## Advanced EC2 Configurations
 
