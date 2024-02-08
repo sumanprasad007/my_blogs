@@ -12,6 +12,13 @@ tags: tutorial, docker, java, technology, python, web-development, kubernetes, w
 
 Docker commands are the building blocks for managing containers efficiently. This cheat sheet progresses from basic to advanced commands, providing real-time examples for a comprehensive understanding.
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Download the Docker Cheat Sheet from below<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/posts/prasad-suman-mohan_docker-cheat-sheet-a-guide-for-devops-activity-7161206554610827264-4Z95?utm_source=share&amp;utm_medium=member_desktop" style="pointer-events: none"> link:</a></div>
+</div>
+
+%[https://www.linkedin.com/posts/prasad-suman-mohan_docker-cheat-sheet-a-guide-for-devops-activity-7161206554610827264-4Z95?utm_source=share&utm_medium=member_desktop] 
+
 ---
 
 ## Basic Container Management 🚢
@@ -170,40 +177,38 @@ docker service ls
 
 * **🚢 Basic Operations:** Display running containers, stop, run, and check logs.
     
-
 * ```plaintext
-    docker ps
-    docker stop <container name>
-    docker run <image name>
-    docker logs <container name>
+      docker ps
+      docker stop <container name>
+      docker run <image name>
+      docker logs <container name>
     ```
     
 * **🔄 Intermediate Actions:** Remove stopped containers, delete images, access a running container, and define port mappings.
     
 * ```plaintext
-    docker rm $(docker ps -a -q)
-    docker rmi $(docker images -q)
-    sudo docker exec -it <container name> bash
-    docker run -p <host port>:<container port> <image name>
+      docker rm $(docker ps -a -q)
+      docker rmi $(docker images -q)
+      sudo docker exec -it <container name> bash
+      docker run -p <host port>:<container port> <image name>
     ```
     
 * **🔄🛠️ Docker Compose and Maven:** Build, start, stop, push, and run containers with Docker Compose and Maven.
     
 * ```plaintext
-    docker-compose build
-    docker-compose up -d
-    mvn clean package docker:build
-    mvn docker:start
+      docker-compose build
+      docker-compose up -d
+      mvn clean package docker:build
+      mvn docker:start
     ```
     
 * **🐝 Docker Swarm Scaling:** Initialize Swarm, add a node, and list nodes and services.
     
-
 * ```plaintext
-    docker swarm init
-    docker swarm join --token <token> --listen-addr <ip:port>
-    docker node ls
-    docker service ls
+      docker swarm init
+      docker swarm join --token <token> --listen-addr <ip:port>
+      docker node ls
+      docker service ls
     ```
     
 
@@ -266,49 +271,47 @@ ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/myapp.jar"
 
 * **🚮 Cleaning Up:** Use delete commands with emojis for easy identification.
     
-
 * ```plaintext
-    docker rm $(docker ps -a -q)
+      docker rm $(docker ps -a -q)
     ```
     
 * **🔄 Automation:** Employ Docker Compose and Maven commands for seamless automation.
     
 * ```plaintext
-    docker-compose up -d
-    mvn clean package docker:build
+      docker-compose up -d
+      mvn clean package docker:build
     ```
     
 * **🛠️ Dockerizing Apps:** Utilize Java and Spring Boot examples for adding functionalities to Docker images.
     
 * ```plaintext
-    ADD /maven/myapp-0.0.1-SNAPSHOT.jar myapp.jar
+      ADD /maven/myapp-0.0.1-SNAPSHOT.jar myapp.jar
     ```
     
 * **🏃‍♂️ Daily Use Commands:** Run, stop, and view logs with emojis for quick recognition.
     
 * ```plaintext
-    docker stop <container name>
+      docker stop <container name>
     ```
     
 * **🌐 Networking:** Port mapping and volume sharing commands with emojis for clarity.
     
 * ```plaintext
-    docker run -p <host port>:<container port> <image name>
+      docker run -p <host port>:<container port> <image name>
     ```
     
 * **🔄 Maven Integration:** Maven commands with emojis for building, starting, stopping, and pushing Docker images.
     
 * ```plaintext
-    mvn clean package docker:build
-    mvn docker:start
+      mvn clean package docker:build
+      mvn docker:start
     ```
     
 * **🐝 Docker Swarm:** Swarm commands annotated with emojis for initiation, node management, and service handling.
     
-
 * ```plaintext
-    docker swarm init
-    docker node ls
+      docker swarm init
+      docker node ls
     ```
     
 
