@@ -12,117 +12,116 @@ tags: linux, docker, aws, python, web-development, ansible, kubernetes, webdev, 
 
 Ansible is a powerful open-source automation tool that simplifies the configuration management, application deployment, and task automation processes. This cheat sheet provides a quick reference to commonly used Ansible commands and concepts, accompanied by real-time use cases to illustrate their practical application.
 
-## Ansible Cheat Sheet
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Download the Docker Cheat Sheet from below<strong> </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/posts/prasad-suman-mohan_ansible-cheat-sheet-with-examples-part1-activity-7161936887811563520-L_Eo?utm_source=share&amp;utm_medium=member_desktop" style="pointer-events: none"><strong>link:</strong></a></div>
+</div>
+
+%[https://www.linkedin.com/posts/prasad-suman-mohan_ansible-cheat-sheet-with-examples-part1-activity-7161936887811563520-L_Eo?utm_source=share&utm_medium=member_desktop] 
+
+## [Ansib](https://www.linkedin.com/posts/prasad-suman-mohan_docker-cheat-sheet-a-guide-for-devops-activity-7161206554610827264-4Z95?utm_source=share&utm_medium=member_desktop)le Cheat Sheet
 
 ### 1\. **Inventory Management**
 
-* **Command:** `ansible-inventory`
+* **Command:**`ansible-inventory`
     
 * **Use Case:** List all hosts in the inventory.
     
-
 * ```plaintext
-    ansible-inventory --list
+      ansible-inventory --list
     ```
     
 
 ### 2\. **Ad-hoc Commands**
 
-* **Command:** `ansible`
+* **Command:**`ansible`
     
 * **Use Case:** Run a command on all hosts in the inventory.
     
-
 * ```plaintext
-    ansible all -m command -a "uptime"
+      ansible all -m command -a "uptime"
     ```
     
 
 ### 3\. **Playbooks**
 
-* **Command:** `ansible-playbook`
+* **Command:**`ansible-playbook`
     
 * **Use Case:** Execute a playbook.
     
-
 * ```plaintext
-    ansible-playbook deploy-app.yaml
+      ansible-playbook deploy-app.yaml
     ```
     
 
 ### 4\. **Variables**
 
-* **Command:** `{{ variable_name }}`
+* **Command:**`{{ variable_name }}`
     
 * **Use Case:** Use a variable in a playbook.
     
-
 * ```plaintext
-    tasks:
-      - name: Ensure package is installed
-        apt:
-          name: "{{ package_name }}"
-          state: present
+      tasks:
+        - name: Ensure package is installed
+          apt:
+            name: "{{ package_name }}"
+            state: present
     ```
     
 
 ### 5\. **Loops**
 
-* **Command:** `with_items`
+* **Command:**`with_items`
     
 * **Use Case:** Iterate over a list in a playbook.
     
-
 * ```plaintext
-    tasks:
-      - name: Create users
-        user:
-          name: "{{ item }}"
-          state: present
-        with_items:
-          - user1
-          - user2
+      tasks:
+        - name: Create users
+          user:
+            name: "{{ item }}"
+            state: present
+          with_items:
+            - user1
+            - user2
     ```
     
 
 ### 6\. **Conditionals**
 
-* **Command:** `when`
+* **Command:**`when`
     
 * **Use Case:** Add a condition to a task.
     
-
 * ```plaintext
-    tasks:
-      - name: Restart Apache if config file changes
-        service:
-          name: apache2
-          state: restarted
-        when: "'apache.conf' in ansible.builtin.changed_files"
+      tasks:
+        - name: Restart Apache if config file changes
+          service:
+            name: apache2
+            state: restarted
+          when: "'apache.conf' in ansible.builtin.changed_files"
     ```
     
 
 ### 7\. **Roles**
 
-* **Command:** `ansible-galaxy`
+* **Command:**`ansible-galaxy`
     
 * **Use Case:** Create a new role.
     
-
 * ```plaintext
-    ansible-galaxy init my-role
+      ansible-galaxy init my-role
     ```
     
 
 ### 8\. **Vault**
 
-* **Command:** `ansible-vault`
+* **Command:**`ansible-vault`
     
 * **Use Case:** Encrypt sensitive data.
     
-
 * ```plaintext
-    ansible-vault encrypt secrets.yaml
+      ansible-vault encrypt secrets.yaml
     ```
     
 
@@ -155,103 +154,96 @@ Ansible is a powerful open-source automation tool that simplifies the configurat
 
 ### 9\. **Dynamic Inventory**
 
-* **Command:** `ansible-inventory --graph`
+* **Command:**`ansible-inventory --graph`
     
 * **Use Case:** Display the inventory structure in a graph.
     
-
 * ```plaintext
-    ansible-inventory --graph
+      ansible-inventory --graph
     ```
     
 
 ### 10\. **Handlers**
 
-* **Command:** `handlers`
+* **Command:**`handlers`
     
 * **Use Case:** Define a handler to restart a service only if a task triggers it.
     
-
 * ```plaintext
-    handlers:
-      - name: restart apache
-        service:
-          name: apache2
-          state: restarted
+      handlers:
+        - name: restart apache
+          service:
+            name: apache2
+            state: restarted
     ```
     
 
 ### 11\. **Tags**
 
-* **Command:** `--tags` and `--skip-tags`
+* **Command:**`--tags` and `--skip-tags`
     
 * **Use Case:** Run specific tasks or skip others based on tags.
     
-
 * ```plaintext
-    ansible-playbook deploy-app.yaml --tags "install,config"
+      ansible-playbook deploy-app.yaml --tags "install,config"
     ```
     
 
 ### 12\. **Ansible Vault Encryption and Decryption**
 
-* **Command:** `ansible-vault encrypt_string`
+* **Command:**`ansible-vault encrypt_string`
     
 * **Use Case:** Encrypt sensitive strings for use in playbooks.
     
-
 * ```plaintext
-    ansible-vault encrypt_string 'secret_password' --name 'db_password'
+      ansible-vault encrypt_string 'secret_password' --name 'db_password'
     ```
     
 
 ### 13\. **Custom Modules**
 
-* **Command:** `ansible-doc -l | grep your_module`
+* **Command:**`ansible-doc -l | grep your_module`
     
 * **Use Case:** Develop and use custom Ansible modules.
     
-
 * ```plaintext
-    ansible-doc -l | grep custom_module
+      ansible-doc -l | grep custom_module
     ```
     
 
 ### 14\. **Jinja2 Templating**
 
-* **Command:** `{{ variable | filter }}`
+* **Command:**`{{ variable | filter }}`
     
 * **Use Case:** Use Jinja2 filters for dynamic content.
     
-
 * ```plaintext
-    tasks:
-      - name: Set dynamic variable
-        set_fact:
-          dynamic_value: "{{ base_value | upper }}"
+      tasks:
+        - name: Set dynamic variable
+          set_fact:
+            dynamic_value: "{{ base_value | upper }}"
     ```
     
 
 ### 15\. **Notify and Wait for Completion**
 
-* **Command:** `async` and `poll`
+* **Command:**`async` and `poll`
     
 * **Use Case:** Execute tasks asynchronously and wait for their completion.
     
-
 * ```plaintext
-    tasks:
-      - name: Long-running task
-        command: /path/to/long_running_script.sh
-        async: 300
-        poll: 0
-        register: job_result
-    
-      - name: Wait for completion
-        async_status:
-          jid: "{{ job_result.ansible_job_id }}"
-        until: job_result.finished
-        retries: 30
+      tasks:
+        - name: Long-running task
+          command: /path/to/long_running_script.sh
+          async: 300
+          poll: 0
+          register: job_result
+      
+        - name: Wait for completion
+          async_status:
+            jid: "{{ job_result.ansible_job_id }}"
+          until: job_result.finished
+          retries: 30
     ```
     
 
