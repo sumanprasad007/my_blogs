@@ -1,8 +1,8 @@
 ---
-title: "Introduction to Linux Cron Jobs"
+title: "Step by Step guide for Cron Jobs"
 datePublished: Sat Mar 30 2024 04:00:55 GMT+0000 (Coordinated Universal Time)
 cuid: cludkeq6q000008l2eld9ct4q
-slug: introduction-to-linux-cron-jobs
+slug: step-by-step-guide-for-cron-jobs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711734948161/323a36d0-e42a-4eff-9122-968bdf83ab8e.jpeg
 tags: linux, docker, python, web-development, kubernetes, webdev, developer, devops, frontend-development, linux-for-beginners, shell-script, devops-articles, 90daysofdevops, trainwithshubham
 
